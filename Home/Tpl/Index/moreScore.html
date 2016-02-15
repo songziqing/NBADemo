@@ -1,0 +1,70 @@
+<!doctype html>
+<html>
+<head>
+	<meta charset="utf-8">
+	
+	<!-- 移动设备优先，确保适当的绘制和触屏缩放 -->
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<script src="__PUBLIC__/Js/jquery-2.1.4.js"></script>
+	<script src="__PUBLIC__/Css/bootstrap-3.3.5-dist/js/bootstrap.js"></script>
+	<link href="__PUBLIC__/Css/bootstrap-3.3.5-dist/css/bootstrap.css" rel="stylesheet" type="text/css">
+	<link href="__PUBLIC__/Css/bootstrap-3.3.5-dist/css/bootstrap-theme.css" rel="stylesheet" type="text/css">
+	<style type="text/css">
+		.breadcrumb{
+			margin-bottom: 0px;
+		}
+	</style>
+	<title>更多得分榜数据</title>
+	<link rel="shortcut icon" href="__PUBLIC__/Images/NBA.ico">
+</head>
+
+<body>
+	<div class="container">
+		<div class="row">
+			<ul class="nav nav-tabs col-md-12">
+				<li role="presentation" class="active"><a href="#">得分榜</a></li>
+				<li role="presentation"><a href="__URL__/moreBoard">篮板榜</a></li>
+				<li role="presentation"><a href="__URL__/moreAst">助攻榜</a></li>
+				<li role="presentation"><a href="__URL__/moreStl">抢断榜</a></li>
+				<li role="presentation"><a href="__URL__/moreBlock">盖帽榜</a></li>
+				<li role="presentation"><a href="__URL__/moreFault">失误榜</a></li>
+				<li role="presentation"><a href="__URL__/moreShot">神投榜</a></li>
+			</ul>
+		</div>
+		<div class="row">
+			<ol class="breadcrumb">
+				<li><a href="__URL__/index">NBA统计</a></li>
+				<li><a href="__URL__/index">得分榜</a></li>
+				<li class="active">更多数据>></li>
+			</ol>
+		</div>
+		<div class="row">
+			<table class="table table-bordered table-hover col-md-12">
+				<tr  class="active">
+					<th>排名</th><th>球员</th><th>球队</th><th>场均得分</th><th>得分总数</th>
+					<th>投篮命中率</th>
+					<th>场均时间</th><th>参赛场次</th>
+				</tr>
+				<volist name="list" id="vo">
+					<tr>
+						<td>
+							<?php
+							if($_GET[p]==null){
+								echo $key+1;
+
+							} else {
+								echo $_GET[p]*14+$key-13;
+							}
+							?>
+						</td>
+						<td><{$vo.player}></td><td><{$vo.team}></td>
+						<td><{$vo.avgscore}><td><{$vo.score}></td><td><{$vo.shortrate}>%</td><td><{$vo.mpg}></td>
+						<td><{$vo.gs}></td>
+					</tr>
+				</volist>
+			</table>
+			<{$page}><a href="__URL__/index#0F" class="btn btn-primary pull-right">返回</a>
+		</div>
+	</div>
+</body>
+</html>

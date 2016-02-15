@@ -1,0 +1,1231 @@
+[ 2016-02-09T09:30:34+08:00 ] 0.0.0.0 /NBADemo/index.php/Index/info?do=1
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:0.000805s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000925s ]
+SQL: SHOW COLUMNS FROM `tb_statistics` [ RunTime:0.003976s ]
+SQL: SELECT * FROM `tb_statistics` WHERE ( `id` = 1 ) LIMIT 1   [ RunTime:0.000749s ]
+
+[ 2016-02-09T09:30:34+08:00 ] 0.0.0.0 /NBADemo/index.php/Index/myData?player=%E6%8B%89%E5%A1%9E%E5%B0%94-%E5%A8%81%E6%96%AF%E5%B8%83%E9%B2%81%E5%85%8B
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:0.000797s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000911s ]
+SQL: SHOW COLUMNS FROM `tb_statistics` [ RunTime:0.003897s ]
+SQL: SELECT `avgscore`,`shortrate`,`thirdrate`,`ft`,`mpg` FROM `tb_statistics` WHERE ( `player` = '拉塞尔-威斯布鲁克' )  [ RunTime:0.000448s ]
+NOTIC: [8] Use of undefined constant avgscore - assumed 'avgscore' C:\wamp\www\NBADemo\Home\Lib\Action\IndexAction.class.php 第 163 行.
+NOTIC: [8] Use of undefined constant shortrate - assumed 'shortrate' C:\wamp\www\NBADemo\Home\Lib\Action\IndexAction.class.php 第 164 行.
+NOTIC: [8] Use of undefined constant thirdrate - assumed 'thirdrate' C:\wamp\www\NBADemo\Home\Lib\Action\IndexAction.class.php 第 165 行.
+NOTIC: [8] Use of undefined constant ft - assumed 'ft' C:\wamp\www\NBADemo\Home\Lib\Action\IndexAction.class.php 第 166 行.
+NOTIC: [8] Use of undefined constant mpg - assumed 'mpg' C:\wamp\www\NBADemo\Home\Lib\Action\IndexAction.class.php 第 167 行.
+
+[ 2016-02-09T09:30:34+08:00 ] 0.0.0.0 /NBADemo/index.php/Index/info?do=1
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:0.001062s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001225s ]
+SQL: SHOW COLUMNS FROM `tb_statistics` [ RunTime:0.005677s ]
+SQL: SELECT * FROM `tb_statistics` WHERE ( `id` = 1 ) LIMIT 1   [ RunTime:0.001020s ]
+
+[ 2016-02-09T09:30:34+08:00 ] 0.0.0.0 /NBADemo/index.php/Index/myData?player=%E6%8B%89%E5%A1%9E%E5%B0%94-%E5%A8%81%E6%96%AF%E5%B8%83%E9%B2%81%E5%85%8B
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:0.001645s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001893s ]
+SQL: SHOW COLUMNS FROM `tb_statistics` [ RunTime:0.003926s ]
+SQL: SELECT `avgscore`,`shortrate`,`thirdrate`,`ft`,`mpg` FROM `tb_statistics` WHERE ( `player` = '拉塞尔-威斯布鲁克' )  [ RunTime:0.000437s ]
+NOTIC: [8] Use of undefined constant avgscore - assumed 'avgscore' C:\wamp\www\NBADemo\Home\Lib\Action\IndexAction.class.php 第 163 行.
+NOTIC: [8] Use of undefined constant shortrate - assumed 'shortrate' C:\wamp\www\NBADemo\Home\Lib\Action\IndexAction.class.php 第 164 行.
+NOTIC: [8] Use of undefined constant thirdrate - assumed 'thirdrate' C:\wamp\www\NBADemo\Home\Lib\Action\IndexAction.class.php 第 165 行.
+NOTIC: [8] Use of undefined constant ft - assumed 'ft' C:\wamp\www\NBADemo\Home\Lib\Action\IndexAction.class.php 第 166 行.
+NOTIC: [8] Use of undefined constant mpg - assumed 'mpg' C:\wamp\www\NBADemo\Home\Lib\Action\IndexAction.class.php 第 167 行.
+
+[ 2016-02-09T09:30:34+08:00 ] 0.0.0.0 /NBADemo/index.php/Index/info?do=20
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:0.000944s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001073s ]
+SQL: SHOW COLUMNS FROM `tb_statistics` [ RunTime:0.004116s ]
+SQL: SELECT * FROM `tb_statistics` WHERE ( `id` = 20 ) LIMIT 1   [ RunTime:0.000758s ]
+
+[ 2016-02-09T09:30:34+08:00 ] 0.0.0.0 /NBADemo/index.php/Index/myData?player=%E4%BC%8A%E6%9B%BC-%E9%A6%99%E6%B3%A2%E7%89%B9
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:0.001098s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001214s ]
+SQL: SHOW COLUMNS FROM `tb_statistics` [ RunTime:0.005501s ]
+SQL: SELECT `avgscore`,`shortrate`,`thirdrate`,`ft`,`mpg` FROM `tb_statistics` WHERE ( `player` = '伊曼-香波特' )  [ RunTime:0.001252s ]
+NOTIC: [8] Use of undefined constant avgscore - assumed 'avgscore' C:\wamp\www\NBADemo\Home\Lib\Action\IndexAction.class.php 第 163 行.
+NOTIC: [8] Use of undefined constant shortrate - assumed 'shortrate' C:\wamp\www\NBADemo\Home\Lib\Action\IndexAction.class.php 第 164 行.
+NOTIC: [8] Use of undefined constant thirdrate - assumed 'thirdrate' C:\wamp\www\NBADemo\Home\Lib\Action\IndexAction.class.php 第 165 行.
+NOTIC: [8] Use of undefined constant ft - assumed 'ft' C:\wamp\www\NBADemo\Home\Lib\Action\IndexAction.class.php 第 166 行.
+NOTIC: [8] Use of undefined constant mpg - assumed 'mpg' C:\wamp\www\NBADemo\Home\Lib\Action\IndexAction.class.php 第 167 行.
+
+[ 2016-02-09T09:30:34+08:00 ] 0.0.0.0 /NBADemo/index.php/Index/myData?player=%E5%B8%83%E6%8B%89%E5%BE%B7%E5%88%A9-%E6%AF%94%E5%B0%94
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:0.001067s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001220s ]
+SQL: SHOW COLUMNS FROM `tb_statistics` [ RunTime:0.005339s ]
+SQL: SELECT `avgscore`,`shortrate`,`thirdrate`,`ft`,`mpg` FROM `tb_statistics` WHERE ( `player` = '布拉德利-比尔' )  [ RunTime:0.000503s ]
+NOTIC: [8] Use of undefined constant avgscore - assumed 'avgscore' C:\wamp\www\NBADemo\Home\Lib\Action\IndexAction.class.php 第 163 行.
+NOTIC: [8] Use of undefined constant shortrate - assumed 'shortrate' C:\wamp\www\NBADemo\Home\Lib\Action\IndexAction.class.php 第 164 行.
+NOTIC: [8] Use of undefined constant thirdrate - assumed 'thirdrate' C:\wamp\www\NBADemo\Home\Lib\Action\IndexAction.class.php 第 165 行.
+NOTIC: [8] Use of undefined constant ft - assumed 'ft' C:\wamp\www\NBADemo\Home\Lib\Action\IndexAction.class.php 第 166 行.
+NOTIC: [8] Use of undefined constant mpg - assumed 'mpg' C:\wamp\www\NBADemo\Home\Lib\Action\IndexAction.class.php 第 167 行.
+
+[ 2016-02-09T09:30:34+08:00 ] 0.0.0.0 /NBADemo/index.php/Index/info?do=15
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:0.000961s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001104s ]
+SQL: SHOW COLUMNS FROM `tb_statistics` [ RunTime:0.005153s ]
+SQL: SELECT * FROM `tb_statistics` WHERE ( `id` = 15 ) LIMIT 1   [ RunTime:0.001173s ]
+
+[ 2016-02-09T09:30:34+08:00 ] 0.0.0.0 /NBADemo/index.php/Index/myData?player=%E4%BC%8A%E6%9B%BC-%E9%A6%99%E6%B3%A2%E7%89%B9
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:0.000998s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001145s ]
+SQL: SHOW COLUMNS FROM `tb_statistics` [ RunTime:0.004874s ]
+SQL: SELECT `avgscore`,`shortrate`,`thirdrate`,`ft`,`mpg` FROM `tb_statistics` WHERE ( `player` = '伊曼-香波特' )  [ RunTime:0.000905s ]
+NOTIC: [8] Use of undefined constant avgscore - assumed 'avgscore' C:\wamp\www\NBADemo\Home\Lib\Action\IndexAction.class.php 第 163 行.
+NOTIC: [8] Use of undefined constant shortrate - assumed 'shortrate' C:\wamp\www\NBADemo\Home\Lib\Action\IndexAction.class.php 第 164 行.
+NOTIC: [8] Use of undefined constant thirdrate - assumed 'thirdrate' C:\wamp\www\NBADemo\Home\Lib\Action\IndexAction.class.php 第 165 行.
+NOTIC: [8] Use of undefined constant ft - assumed 'ft' C:\wamp\www\NBADemo\Home\Lib\Action\IndexAction.class.php 第 166 行.
+NOTIC: [8] Use of undefined constant mpg - assumed 'mpg' C:\wamp\www\NBADemo\Home\Lib\Action\IndexAction.class.php 第 167 行.
+
+[ 2016-02-09T09:30:35+08:00 ] 0.0.0.0 /NBADemo/index.php/Index/myData?player=%E5%B8%83%E6%8B%89%E5%BE%B7%E5%88%A9-%E6%AF%94%E5%B0%94
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:0.000628s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000714s ]
+SQL: SHOW COLUMNS FROM `tb_statistics` [ RunTime:0.003930s ]
+SQL: SELECT `avgscore`,`shortrate`,`thirdrate`,`ft`,`mpg` FROM `tb_statistics` WHERE ( `player` = '布拉德利-比尔' )  [ RunTime:0.000499s ]
+NOTIC: [8] Use of undefined constant avgscore - assumed 'avgscore' C:\wamp\www\NBADemo\Home\Lib\Action\IndexAction.class.php 第 163 行.
+NOTIC: [8] Use of undefined constant shortrate - assumed 'shortrate' C:\wamp\www\NBADemo\Home\Lib\Action\IndexAction.class.php 第 164 行.
+NOTIC: [8] Use of undefined constant thirdrate - assumed 'thirdrate' C:\wamp\www\NBADemo\Home\Lib\Action\IndexAction.class.php 第 165 行.
+NOTIC: [8] Use of undefined constant ft - assumed 'ft' C:\wamp\www\NBADemo\Home\Lib\Action\IndexAction.class.php 第 166 行.
+NOTIC: [8] Use of undefined constant mpg - assumed 'mpg' C:\wamp\www\NBADemo\Home\Lib\Action\IndexAction.class.php 第 167 行.
+
+[ 2016-02-09T09:30:35+08:00 ] 0.0.0.0 /NBADemo/index.php/Index/myData?player=%E5%BE%B7%E9%A9%AC%E5%BA%93%E6%96%AF-%E8%80%83%E8%BE%9B%E6%96%AF
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:0.000608s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000695s ]
+SQL: SHOW COLUMNS FROM `tb_statistics` [ RunTime:0.003678s ]
+SQL: SELECT `avgscore`,`shortrate`,`thirdrate`,`ft`,`mpg` FROM `tb_statistics` WHERE ( `player` = '德马库斯-考辛斯' )  [ RunTime:0.000951s ]
+NOTIC: [8] Use of undefined constant avgscore - assumed 'avgscore' C:\wamp\www\NBADemo\Home\Lib\Action\IndexAction.class.php 第 163 行.
+NOTIC: [8] Use of undefined constant shortrate - assumed 'shortrate' C:\wamp\www\NBADemo\Home\Lib\Action\IndexAction.class.php 第 164 行.
+NOTIC: [8] Use of undefined constant thirdrate - assumed 'thirdrate' C:\wamp\www\NBADemo\Home\Lib\Action\IndexAction.class.php 第 165 行.
+NOTIC: [8] Use of undefined constant ft - assumed 'ft' C:\wamp\www\NBADemo\Home\Lib\Action\IndexAction.class.php 第 166 行.
+NOTIC: [8] Use of undefined constant mpg - assumed 'mpg' C:\wamp\www\NBADemo\Home\Lib\Action\IndexAction.class.php 第 167 行.
+
+[ 2016-02-09T09:30:35+08:00 ] 0.0.0.0 /NBADemo/index.php/Index/info?do=2
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:0.000623s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000711s ]
+SQL: SHOW COLUMNS FROM `tb_statistics` [ RunTime:0.003889s ]
+SQL: SELECT * FROM `tb_statistics` WHERE ( `id` = 2 ) LIMIT 1   [ RunTime:0.000692s ]
+
+[ 2016-02-09T09:30:35+08:00 ] 0.0.0.0 /NBADemo/index.php/Index/myData?player=%E5%B8%83%E6%8B%89%E5%BE%B7%E5%88%A9-%E6%AF%94%E5%B0%94
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:0.000658s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000752s ]
+SQL: SHOW COLUMNS FROM `tb_statistics` [ RunTime:0.005302s ]
+SQL: SELECT `avgscore`,`shortrate`,`thirdrate`,`ft`,`mpg` FROM `tb_statistics` WHERE ( `player` = '布拉德利-比尔' )  [ RunTime:0.000430s ]
+NOTIC: [8] Use of undefined constant avgscore - assumed 'avgscore' C:\wamp\www\NBADemo\Home\Lib\Action\IndexAction.class.php 第 163 行.
+NOTIC: [8] Use of undefined constant shortrate - assumed 'shortrate' C:\wamp\www\NBADemo\Home\Lib\Action\IndexAction.class.php 第 164 行.
+NOTIC: [8] Use of undefined constant thirdrate - assumed 'thirdrate' C:\wamp\www\NBADemo\Home\Lib\Action\IndexAction.class.php 第 165 行.
+NOTIC: [8] Use of undefined constant ft - assumed 'ft' C:\wamp\www\NBADemo\Home\Lib\Action\IndexAction.class.php 第 166 行.
+NOTIC: [8] Use of undefined constant mpg - assumed 'mpg' C:\wamp\www\NBADemo\Home\Lib\Action\IndexAction.class.php 第 167 行.
+
+[ 2016-02-09T09:30:35+08:00 ] 0.0.0.0 /NBADemo/index.php/Index/myData?player=%E5%BE%B7%E9%A9%AC%E5%BA%93%E6%96%AF-%E8%80%83%E8%BE%9B%E6%96%AF
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:0.000631s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000725s ]
+SQL: SHOW COLUMNS FROM `tb_statistics` [ RunTime:0.004666s ]
+SQL: SELECT `avgscore`,`shortrate`,`thirdrate`,`ft`,`mpg` FROM `tb_statistics` WHERE ( `player` = '德马库斯-考辛斯' )  [ RunTime:0.000482s ]
+NOTIC: [8] Use of undefined constant avgscore - assumed 'avgscore' C:\wamp\www\NBADemo\Home\Lib\Action\IndexAction.class.php 第 163 行.
+NOTIC: [8] Use of undefined constant shortrate - assumed 'shortrate' C:\wamp\www\NBADemo\Home\Lib\Action\IndexAction.class.php 第 164 行.
+NOTIC: [8] Use of undefined constant thirdrate - assumed 'thirdrate' C:\wamp\www\NBADemo\Home\Lib\Action\IndexAction.class.php 第 165 行.
+NOTIC: [8] Use of undefined constant ft - assumed 'ft' C:\wamp\www\NBADemo\Home\Lib\Action\IndexAction.class.php 第 166 行.
+NOTIC: [8] Use of undefined constant mpg - assumed 'mpg' C:\wamp\www\NBADemo\Home\Lib\Action\IndexAction.class.php 第 167 行.
+
+[ 2016-02-09T09:30:35+08:00 ] 0.0.0.0 /NBADemo/index.php/Index/info?do=15
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:0.000684s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000785s ]
+SQL: SHOW COLUMNS FROM `tb_statistics` [ RunTime:0.005581s ]
+SQL: SELECT * FROM `tb_statistics` WHERE ( `id` = 15 ) LIMIT 1   [ RunTime:0.000877s ]
+
+[ 2016-02-09T09:30:35+08:00 ] 0.0.0.0 /NBADemo/index.php/Index/info?do=15
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:0.001630s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001861s ]
+SQL: SHOW COLUMNS FROM `tb_statistics` [ RunTime:0.004733s ]
+SQL: SELECT * FROM `tb_statistics` WHERE ( `id` = 15 ) LIMIT 1   [ RunTime:0.000924s ]
+
+[ 2016-02-09T09:30:35+08:00 ] 0.0.0.0 /NBADemo/index.php/Index/myData?player=%E4%BC%8A%E6%9B%BC-%E9%A6%99%E6%B3%A2%E7%89%B9
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:0.000909s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001121s ]
+SQL: SHOW COLUMNS FROM `tb_statistics` [ RunTime:0.004538s ]
+SQL: SELECT `avgscore`,`shortrate`,`thirdrate`,`ft`,`mpg` FROM `tb_statistics` WHERE ( `player` = '伊曼-香波特' )  [ RunTime:0.000709s ]
+NOTIC: [8] Use of undefined constant avgscore - assumed 'avgscore' C:\wamp\www\NBADemo\Home\Lib\Action\IndexAction.class.php 第 163 行.
+NOTIC: [8] Use of undefined constant shortrate - assumed 'shortrate' C:\wamp\www\NBADemo\Home\Lib\Action\IndexAction.class.php 第 164 行.
+NOTIC: [8] Use of undefined constant thirdrate - assumed 'thirdrate' C:\wamp\www\NBADemo\Home\Lib\Action\IndexAction.class.php 第 165 行.
+NOTIC: [8] Use of undefined constant ft - assumed 'ft' C:\wamp\www\NBADemo\Home\Lib\Action\IndexAction.class.php 第 166 行.
+NOTIC: [8] Use of undefined constant mpg - assumed 'mpg' C:\wamp\www\NBADemo\Home\Lib\Action\IndexAction.class.php 第 167 行.
+
+[ 2016-02-09T09:30:35+08:00 ] 0.0.0.0 /NBADemo/index.php/Index/myData?player=%E5%B8%83%E6%8B%89%E5%BE%B7%E5%88%A9-%E6%AF%94%E5%B0%94
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:0.001222s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001369s ]
+SQL: SHOW COLUMNS FROM `tb_statistics` [ RunTime:0.004038s ]
+SQL: SELECT `avgscore`,`shortrate`,`thirdrate`,`ft`,`mpg` FROM `tb_statistics` WHERE ( `player` = '布拉德利-比尔' )  [ RunTime:0.000793s ]
+NOTIC: [8] Use of undefined constant avgscore - assumed 'avgscore' C:\wamp\www\NBADemo\Home\Lib\Action\IndexAction.class.php 第 163 行.
+NOTIC: [8] Use of undefined constant shortrate - assumed 'shortrate' C:\wamp\www\NBADemo\Home\Lib\Action\IndexAction.class.php 第 164 行.
+NOTIC: [8] Use of undefined constant thirdrate - assumed 'thirdrate' C:\wamp\www\NBADemo\Home\Lib\Action\IndexAction.class.php 第 165 行.
+NOTIC: [8] Use of undefined constant ft - assumed 'ft' C:\wamp\www\NBADemo\Home\Lib\Action\IndexAction.class.php 第 166 行.
+NOTIC: [8] Use of undefined constant mpg - assumed 'mpg' C:\wamp\www\NBADemo\Home\Lib\Action\IndexAction.class.php 第 167 行.
+
+[ 2016-02-09T09:30:35+08:00 ] 0.0.0.0 /NBADemo/index.php/Index/info?do=20
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:0.000811s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000927s ]
+SQL: SHOW COLUMNS FROM `tb_statistics` [ RunTime:0.005500s ]
+SQL: SELECT * FROM `tb_statistics` WHERE ( `id` = 20 ) LIMIT 1   [ RunTime:0.000703s ]
+
+[ 2016-02-09T09:30:35+08:00 ] 0.0.0.0 /NBADemo/index.php/Index/myData?player=%E4%BC%8A%E6%9B%BC-%E9%A6%99%E6%B3%A2%E7%89%B9
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:0.000927s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001068s ]
+SQL: SHOW COLUMNS FROM `tb_statistics` [ RunTime:0.005374s ]
+SQL: SELECT `avgscore`,`shortrate`,`thirdrate`,`ft`,`mpg` FROM `tb_statistics` WHERE ( `player` = '伊曼-香波特' )  [ RunTime:0.000727s ]
+NOTIC: [8] Use of undefined constant avgscore - assumed 'avgscore' C:\wamp\www\NBADemo\Home\Lib\Action\IndexAction.class.php 第 163 行.
+NOTIC: [8] Use of undefined constant shortrate - assumed 'shortrate' C:\wamp\www\NBADemo\Home\Lib\Action\IndexAction.class.php 第 164 行.
+NOTIC: [8] Use of undefined constant thirdrate - assumed 'thirdrate' C:\wamp\www\NBADemo\Home\Lib\Action\IndexAction.class.php 第 165 行.
+NOTIC: [8] Use of undefined constant ft - assumed 'ft' C:\wamp\www\NBADemo\Home\Lib\Action\IndexAction.class.php 第 166 行.
+NOTIC: [8] Use of undefined constant mpg - assumed 'mpg' C:\wamp\www\NBADemo\Home\Lib\Action\IndexAction.class.php 第 167 行.
+
+[ 2016-02-09T09:30:35+08:00 ] 0.0.0.0 /NBADemo/index.php/Index/info?do=15
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:0.000667s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000762s ]
+SQL: SHOW COLUMNS FROM `tb_statistics` [ RunTime:0.004159s ]
+SQL: SELECT * FROM `tb_statistics` WHERE ( `id` = 15 ) LIMIT 1   [ RunTime:0.001018s ]
+
+[ 2016-02-09T09:30:35+08:00 ] 0.0.0.0 /NBADemo/index.php/Index/myData?player=%E5%B8%83%E6%8B%89%E5%BE%B7%E5%88%A9-%E6%AF%94%E5%B0%94
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:0.000983s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001137s ]
+SQL: SHOW COLUMNS FROM `tb_statistics` [ RunTime:0.005927s ]
+SQL: SELECT `avgscore`,`shortrate`,`thirdrate`,`ft`,`mpg` FROM `tb_statistics` WHERE ( `player` = '布拉德利-比尔' )  [ RunTime:0.002269s ]
+NOTIC: [8] Use of undefined constant avgscore - assumed 'avgscore' C:\wamp\www\NBADemo\Home\Lib\Action\IndexAction.class.php 第 163 行.
+NOTIC: [8] Use of undefined constant shortrate - assumed 'shortrate' C:\wamp\www\NBADemo\Home\Lib\Action\IndexAction.class.php 第 164 行.
+NOTIC: [8] Use of undefined constant thirdrate - assumed 'thirdrate' C:\wamp\www\NBADemo\Home\Lib\Action\IndexAction.class.php 第 165 行.
+NOTIC: [8] Use of undefined constant ft - assumed 'ft' C:\wamp\www\NBADemo\Home\Lib\Action\IndexAction.class.php 第 166 行.
+NOTIC: [8] Use of undefined constant mpg - assumed 'mpg' C:\wamp\www\NBADemo\Home\Lib\Action\IndexAction.class.php 第 167 行.
+
+[ 2016-02-09T09:30:36+08:00 ] 0.0.0.0 /NBADemo/index.php/Index/myData?player=%E5%B8%83%E6%8B%89%E5%BE%B7%E5%88%A9-%E6%AF%94%E5%B0%94
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:0.000639s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000727s ]
+SQL: SHOW COLUMNS FROM `tb_statistics` [ RunTime:0.010709s ]
+SQL: SELECT `avgscore`,`shortrate`,`thirdrate`,`ft`,`mpg` FROM `tb_statistics` WHERE ( `player` = '布拉德利-比尔' )  [ RunTime:0.000423s ]
+NOTIC: [8] Use of undefined constant avgscore - assumed 'avgscore' C:\wamp\www\NBADemo\Home\Lib\Action\IndexAction.class.php 第 163 行.
+NOTIC: [8] Use of undefined constant shortrate - assumed 'shortrate' C:\wamp\www\NBADemo\Home\Lib\Action\IndexAction.class.php 第 164 行.
+NOTIC: [8] Use of undefined constant thirdrate - assumed 'thirdrate' C:\wamp\www\NBADemo\Home\Lib\Action\IndexAction.class.php 第 165 行.
+NOTIC: [8] Use of undefined constant ft - assumed 'ft' C:\wamp\www\NBADemo\Home\Lib\Action\IndexAction.class.php 第 166 行.
+NOTIC: [8] Use of undefined constant mpg - assumed 'mpg' C:\wamp\www\NBADemo\Home\Lib\Action\IndexAction.class.php 第 167 行.
+
+[ 2016-02-09T09:30:36+08:00 ] 0.0.0.0 /NBADemo/index.php/Index/myData?player=%E5%BE%B7%E9%A9%AC%E5%BA%93%E6%96%AF-%E8%80%83%E8%BE%9B%E6%96%AF
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:0.000636s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000724s ]
+SQL: SHOW COLUMNS FROM `tb_statistics` [ RunTime:0.003959s ]
+SQL: SELECT `avgscore`,`shortrate`,`thirdrate`,`ft`,`mpg` FROM `tb_statistics` WHERE ( `player` = '德马库斯-考辛斯' )  [ RunTime:0.000463s ]
+NOTIC: [8] Use of undefined constant avgscore - assumed 'avgscore' C:\wamp\www\NBADemo\Home\Lib\Action\IndexAction.class.php 第 163 行.
+NOTIC: [8] Use of undefined constant shortrate - assumed 'shortrate' C:\wamp\www\NBADemo\Home\Lib\Action\IndexAction.class.php 第 164 行.
+NOTIC: [8] Use of undefined constant thirdrate - assumed 'thirdrate' C:\wamp\www\NBADemo\Home\Lib\Action\IndexAction.class.php 第 165 行.
+NOTIC: [8] Use of undefined constant ft - assumed 'ft' C:\wamp\www\NBADemo\Home\Lib\Action\IndexAction.class.php 第 166 行.
+NOTIC: [8] Use of undefined constant mpg - assumed 'mpg' C:\wamp\www\NBADemo\Home\Lib\Action\IndexAction.class.php 第 167 行.
+
+[ 2016-02-09T09:30:36+08:00 ] 0.0.0.0 /NBADemo/index.php/Index/info?do=2
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:0.000640s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000730s ]
+SQL: SHOW COLUMNS FROM `tb_statistics` [ RunTime:0.003964s ]
+SQL: SELECT * FROM `tb_statistics` WHERE ( `id` = 2 ) LIMIT 1   [ RunTime:0.001205s ]
+
+[ 2016-02-09T09:30:36+08:00 ] 0.0.0.0 /NBADemo/index.php/Index/info?do=2
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:0.000943s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001089s ]
+SQL: SHOW COLUMNS FROM `tb_statistics` [ RunTime:0.006270s ]
+SQL: SELECT * FROM `tb_statistics` WHERE ( `id` = 2 ) LIMIT 1   [ RunTime:0.000848s ]
+
+[ 2016-02-09T09:30:36+08:00 ] 0.0.0.0 /NBADemo/index.php/Index/myData?player=%E5%BE%B7%E9%A9%AC%E5%BA%93%E6%96%AF-%E8%80%83%E8%BE%9B%E6%96%AF
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:0.000958s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001096s ]
+SQL: SHOW COLUMNS FROM `tb_statistics` [ RunTime:0.005420s ]
+SQL: SELECT `avgscore`,`shortrate`,`thirdrate`,`ft`,`mpg` FROM `tb_statistics` WHERE ( `player` = '德马库斯-考辛斯' )  [ RunTime:0.000588s ]
+NOTIC: [8] Use of undefined constant avgscore - assumed 'avgscore' C:\wamp\www\NBADemo\Home\Lib\Action\IndexAction.class.php 第 163 行.
+NOTIC: [8] Use of undefined constant shortrate - assumed 'shortrate' C:\wamp\www\NBADemo\Home\Lib\Action\IndexAction.class.php 第 164 行.
+NOTIC: [8] Use of undefined constant thirdrate - assumed 'thirdrate' C:\wamp\www\NBADemo\Home\Lib\Action\IndexAction.class.php 第 165 行.
+NOTIC: [8] Use of undefined constant ft - assumed 'ft' C:\wamp\www\NBADemo\Home\Lib\Action\IndexAction.class.php 第 166 行.
+NOTIC: [8] Use of undefined constant mpg - assumed 'mpg' C:\wamp\www\NBADemo\Home\Lib\Action\IndexAction.class.php 第 167 行.
+
+[ 2016-02-09T09:30:36+08:00 ] 0.0.0.0 /NBADemo/index.php/Index/myData?player=%E5%B8%83%E6%8B%89%E5%BE%B7%E5%88%A9-%E6%AF%94%E5%B0%94
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:0.000755s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000872s ]
+SQL: SHOW COLUMNS FROM `tb_statistics` [ RunTime:0.004302s ]
+SQL: SELECT `avgscore`,`shortrate`,`thirdrate`,`ft`,`mpg` FROM `tb_statistics` WHERE ( `player` = '布拉德利-比尔' )  [ RunTime:0.000465s ]
+NOTIC: [8] Use of undefined constant avgscore - assumed 'avgscore' C:\wamp\www\NBADemo\Home\Lib\Action\IndexAction.class.php 第 163 行.
+NOTIC: [8] Use of undefined constant shortrate - assumed 'shortrate' C:\wamp\www\NBADemo\Home\Lib\Action\IndexAction.class.php 第 164 行.
+NOTIC: [8] Use of undefined constant thirdrate - assumed 'thirdrate' C:\wamp\www\NBADemo\Home\Lib\Action\IndexAction.class.php 第 165 行.
+NOTIC: [8] Use of undefined constant ft - assumed 'ft' C:\wamp\www\NBADemo\Home\Lib\Action\IndexAction.class.php 第 166 行.
+NOTIC: [8] Use of undefined constant mpg - assumed 'mpg' C:\wamp\www\NBADemo\Home\Lib\Action\IndexAction.class.php 第 167 行.
+
+[ 2016-02-09T09:30:36+08:00 ] 0.0.0.0 /NBADemo/index.php/Index/info?do=15
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:0.001102s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001329s ]
+SQL: SHOW COLUMNS FROM `tb_statistics` [ RunTime:0.004470s ]
+SQL: SELECT * FROM `tb_statistics` WHERE ( `id` = 15 ) LIMIT 1   [ RunTime:0.000739s ]
+
+[ 2016-02-09T09:30:36+08:00 ] 0.0.0.0 /NBADemo/index.php/Index/info?do=15
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:0.002033s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002308s ]
+SQL: SHOW COLUMNS FROM `tb_statistics` [ RunTime:0.008488s ]
+SQL: SELECT * FROM `tb_statistics` WHERE ( `id` = 15 ) LIMIT 1   [ RunTime:0.001243s ]
+
+[ 2016-02-09T09:30:36+08:00 ] 0.0.0.0 /NBADemo/index.php/Index/info?do=15
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:0.002596s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002865s ]
+SQL: SHOW COLUMNS FROM `tb_statistics` [ RunTime:0.005211s ]
+SQL: SELECT * FROM `tb_statistics` WHERE ( `id` = 15 ) LIMIT 1   [ RunTime:0.001197s ]
+
+[ 2016-02-09T09:30:36+08:00 ] 0.0.0.0 /NBADemo/index.php/Index/myData?player=%E5%B8%83%E6%8B%89%E5%BE%B7%E5%88%A9-%E6%AF%94%E5%B0%94
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:0.001631s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001913s ]
+SQL: SHOW COLUMNS FROM `tb_statistics` [ RunTime:0.006086s ]
+SQL: SELECT `avgscore`,`shortrate`,`thirdrate`,`ft`,`mpg` FROM `tb_statistics` WHERE ( `player` = '布拉德利-比尔' )  [ RunTime:0.000560s ]
+NOTIC: [8] Use of undefined constant avgscore - assumed 'avgscore' C:\wamp\www\NBADemo\Home\Lib\Action\IndexAction.class.php 第 163 行.
+NOTIC: [8] Use of undefined constant shortrate - assumed 'shortrate' C:\wamp\www\NBADemo\Home\Lib\Action\IndexAction.class.php 第 164 行.
+NOTIC: [8] Use of undefined constant thirdrate - assumed 'thirdrate' C:\wamp\www\NBADemo\Home\Lib\Action\IndexAction.class.php 第 165 行.
+NOTIC: [8] Use of undefined constant ft - assumed 'ft' C:\wamp\www\NBADemo\Home\Lib\Action\IndexAction.class.php 第 166 行.
+NOTIC: [8] Use of undefined constant mpg - assumed 'mpg' C:\wamp\www\NBADemo\Home\Lib\Action\IndexAction.class.php 第 167 行.
+
+[ 2016-02-09T09:30:36+08:00 ] 0.0.0.0 /NBADemo/index.php/Index/info?do=20
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:0.003424s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003595s ]
+SQL: SHOW COLUMNS FROM `tb_statistics` [ RunTime:0.004852s ]
+SQL: SELECT * FROM `tb_statistics` WHERE ( `id` = 20 ) LIMIT 1   [ RunTime:0.005361s ]
+
+[ 2016-02-09T09:30:36+08:00 ] 0.0.0.0 /NBADemo/index.php/Index/myData?player=%E4%BC%8A%E6%9B%BC-%E9%A6%99%E6%B3%A2%E7%89%B9
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:0.001173s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001388s ]
+SQL: SHOW COLUMNS FROM `tb_statistics` [ RunTime:0.005781s ]
+SQL: SELECT `avgscore`,`shortrate`,`thirdrate`,`ft`,`mpg` FROM `tb_statistics` WHERE ( `player` = '伊曼-香波特' )  [ RunTime:0.000820s ]
+NOTIC: [8] Use of undefined constant avgscore - assumed 'avgscore' C:\wamp\www\NBADemo\Home\Lib\Action\IndexAction.class.php 第 163 行.
+NOTIC: [8] Use of undefined constant shortrate - assumed 'shortrate' C:\wamp\www\NBADemo\Home\Lib\Action\IndexAction.class.php 第 164 行.
+NOTIC: [8] Use of undefined constant thirdrate - assumed 'thirdrate' C:\wamp\www\NBADemo\Home\Lib\Action\IndexAction.class.php 第 165 行.
+NOTIC: [8] Use of undefined constant ft - assumed 'ft' C:\wamp\www\NBADemo\Home\Lib\Action\IndexAction.class.php 第 166 行.
+NOTIC: [8] Use of undefined constant mpg - assumed 'mpg' C:\wamp\www\NBADemo\Home\Lib\Action\IndexAction.class.php 第 167 行.
+
+[ 2016-02-09T09:30:36+08:00 ] 0.0.0.0 /NBADemo/index.php/Index/info?do=1
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:0.000978s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001129s ]
+SQL: SHOW COLUMNS FROM `tb_statistics` [ RunTime:0.005347s ]
+SQL: SELECT * FROM `tb_statistics` WHERE ( `id` = 1 ) LIMIT 1   [ RunTime:0.001275s ]
+
+[ 2016-02-09T09:30:36+08:00 ] 0.0.0.0 /NBADemo/index.php/Index/myData?player=%E6%8B%89%E5%A1%9E%E5%B0%94-%E5%A8%81%E6%96%AF%E5%B8%83%E9%B2%81%E5%85%8B
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:0.000996s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001141s ]
+SQL: SHOW COLUMNS FROM `tb_statistics` [ RunTime:0.007826s ]
+SQL: SELECT `avgscore`,`shortrate`,`thirdrate`,`ft`,`mpg` FROM `tb_statistics` WHERE ( `player` = '拉塞尔-威斯布鲁克' )  [ RunTime:0.000678s ]
+NOTIC: [8] Use of undefined constant avgscore - assumed 'avgscore' C:\wamp\www\NBADemo\Home\Lib\Action\IndexAction.class.php 第 163 行.
+NOTIC: [8] Use of undefined constant shortrate - assumed 'shortrate' C:\wamp\www\NBADemo\Home\Lib\Action\IndexAction.class.php 第 164 行.
+NOTIC: [8] Use of undefined constant thirdrate - assumed 'thirdrate' C:\wamp\www\NBADemo\Home\Lib\Action\IndexAction.class.php 第 165 行.
+NOTIC: [8] Use of undefined constant ft - assumed 'ft' C:\wamp\www\NBADemo\Home\Lib\Action\IndexAction.class.php 第 166 行.
+NOTIC: [8] Use of undefined constant mpg - assumed 'mpg' C:\wamp\www\NBADemo\Home\Lib\Action\IndexAction.class.php 第 167 行.
+
+[ 2016-02-09T09:30:36+08:00 ] 0.0.0.0 /NBADemo/index.php/Index/info?do=20
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:0.001154s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001331s ]
+SQL: SHOW COLUMNS FROM `tb_statistics` [ RunTime:0.004998s ]
+SQL: SELECT * FROM `tb_statistics` WHERE ( `id` = 20 ) LIMIT 1   [ RunTime:0.000679s ]
+
+[ 2016-02-09T09:30:36+08:00 ] 0.0.0.0 /NBADemo/index.php/Index/myData?player=%E4%BC%8A%E6%9B%BC-%E9%A6%99%E6%B3%A2%E7%89%B9
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:0.000972s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001116s ]
+SQL: SHOW COLUMNS FROM `tb_statistics` [ RunTime:0.003553s ]
+SQL: SELECT `avgscore`,`shortrate`,`thirdrate`,`ft`,`mpg` FROM `tb_statistics` WHERE ( `player` = '伊曼-香波特' )  [ RunTime:0.000372s ]
+NOTIC: [8] Use of undefined constant avgscore - assumed 'avgscore' C:\wamp\www\NBADemo\Home\Lib\Action\IndexAction.class.php 第 163 行.
+NOTIC: [8] Use of undefined constant shortrate - assumed 'shortrate' C:\wamp\www\NBADemo\Home\Lib\Action\IndexAction.class.php 第 164 行.
+NOTIC: [8] Use of undefined constant thirdrate - assumed 'thirdrate' C:\wamp\www\NBADemo\Home\Lib\Action\IndexAction.class.php 第 165 行.
+NOTIC: [8] Use of undefined constant ft - assumed 'ft' C:\wamp\www\NBADemo\Home\Lib\Action\IndexAction.class.php 第 166 行.
+NOTIC: [8] Use of undefined constant mpg - assumed 'mpg' C:\wamp\www\NBADemo\Home\Lib\Action\IndexAction.class.php 第 167 行.
+
+[ 2016-02-09T09:30:36+08:00 ] 0.0.0.0 /NBADemo/index.php/Index/info?do=1
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:0.000949s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001097s ]
+SQL: SHOW COLUMNS FROM `tb_statistics` [ RunTime:0.006036s ]
+SQL: SELECT * FROM `tb_statistics` WHERE ( `id` = 1 ) LIMIT 1   [ RunTime:0.000854s ]
+
+[ 2016-02-09T09:30:37+08:00 ] 0.0.0.0 /NBADemo/index.php/Index/myData?player=%E6%8B%89%E5%A1%9E%E5%B0%94-%E5%A8%81%E6%96%AF%E5%B8%83%E9%B2%81%E5%85%8B
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:0.000626s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000730s ]
+SQL: SHOW COLUMNS FROM `tb_statistics` [ RunTime:0.005265s ]
+SQL: SELECT `avgscore`,`shortrate`,`thirdrate`,`ft`,`mpg` FROM `tb_statistics` WHERE ( `player` = '拉塞尔-威斯布鲁克' )  [ RunTime:0.000606s ]
+NOTIC: [8] Use of undefined constant avgscore - assumed 'avgscore' C:\wamp\www\NBADemo\Home\Lib\Action\IndexAction.class.php 第 163 行.
+NOTIC: [8] Use of undefined constant shortrate - assumed 'shortrate' C:\wamp\www\NBADemo\Home\Lib\Action\IndexAction.class.php 第 164 行.
+NOTIC: [8] Use of undefined constant thirdrate - assumed 'thirdrate' C:\wamp\www\NBADemo\Home\Lib\Action\IndexAction.class.php 第 165 行.
+NOTIC: [8] Use of undefined constant ft - assumed 'ft' C:\wamp\www\NBADemo\Home\Lib\Action\IndexAction.class.php 第 166 行.
+NOTIC: [8] Use of undefined constant mpg - assumed 'mpg' C:\wamp\www\NBADemo\Home\Lib\Action\IndexAction.class.php 第 167 行.
+
+[ 2016-02-09T09:30:37+08:00 ] 0.0.0.0 /NBADemo/index.php/Index/info?do=20
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:0.000619s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000705s ]
+SQL: SHOW COLUMNS FROM `tb_statistics` [ RunTime:0.005006s ]
+SQL: SELECT * FROM `tb_statistics` WHERE ( `id` = 20 ) LIMIT 1   [ RunTime:0.001037s ]
+
+[ 2016-02-09T09:30:37+08:00 ] 0.0.0.0 /NBADemo/index.php/Index/myData?player=%E4%BC%8A%E6%9B%BC-%E9%A6%99%E6%B3%A2%E7%89%B9
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:0.001875s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002046s ]
+SQL: SHOW COLUMNS FROM `tb_statistics` [ RunTime:0.005384s ]
+SQL: SELECT `avgscore`,`shortrate`,`thirdrate`,`ft`,`mpg` FROM `tb_statistics` WHERE ( `player` = '伊曼-香波特' )  [ RunTime:0.000761s ]
+NOTIC: [8] Use of undefined constant avgscore - assumed 'avgscore' C:\wamp\www\NBADemo\Home\Lib\Action\IndexAction.class.php 第 163 行.
+NOTIC: [8] Use of undefined constant shortrate - assumed 'shortrate' C:\wamp\www\NBADemo\Home\Lib\Action\IndexAction.class.php 第 164 行.
+NOTIC: [8] Use of undefined constant thirdrate - assumed 'thirdrate' C:\wamp\www\NBADemo\Home\Lib\Action\IndexAction.class.php 第 165 行.
+NOTIC: [8] Use of undefined constant ft - assumed 'ft' C:\wamp\www\NBADemo\Home\Lib\Action\IndexAction.class.php 第 166 行.
+NOTIC: [8] Use of undefined constant mpg - assumed 'mpg' C:\wamp\www\NBADemo\Home\Lib\Action\IndexAction.class.php 第 167 行.
+
+[ 2016-02-09T09:30:37+08:00 ] 0.0.0.0 /NBADemo/index.php/Index/info?do=15
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:0.000954s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001098s ]
+SQL: SHOW COLUMNS FROM `tb_statistics` [ RunTime:0.004234s ]
+SQL: SELECT * FROM `tb_statistics` WHERE ( `id` = 15 ) LIMIT 1   [ RunTime:0.000729s ]
+
+[ 2016-02-09T09:30:37+08:00 ] 0.0.0.0 /NBADemo/index.php/Index/myData?player=%E4%BC%8A%E6%9B%BC-%E9%A6%99%E6%B3%A2%E7%89%B9
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:0.000949s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001073s ]
+SQL: SHOW COLUMNS FROM `tb_statistics` [ RunTime:0.005482s ]
+SQL: SELECT `avgscore`,`shortrate`,`thirdrate`,`ft`,`mpg` FROM `tb_statistics` WHERE ( `player` = '伊曼-香波特' )  [ RunTime:0.000481s ]
+NOTIC: [8] Use of undefined constant avgscore - assumed 'avgscore' C:\wamp\www\NBADemo\Home\Lib\Action\IndexAction.class.php 第 163 行.
+NOTIC: [8] Use of undefined constant shortrate - assumed 'shortrate' C:\wamp\www\NBADemo\Home\Lib\Action\IndexAction.class.php 第 164 行.
+NOTIC: [8] Use of undefined constant thirdrate - assumed 'thirdrate' C:\wamp\www\NBADemo\Home\Lib\Action\IndexAction.class.php 第 165 行.
+NOTIC: [8] Use of undefined constant ft - assumed 'ft' C:\wamp\www\NBADemo\Home\Lib\Action\IndexAction.class.php 第 166 行.
+NOTIC: [8] Use of undefined constant mpg - assumed 'mpg' C:\wamp\www\NBADemo\Home\Lib\Action\IndexAction.class.php 第 167 行.
+
+[ 2016-02-09T09:30:37+08:00 ] 0.0.0.0 /NBADemo/index.php/Index/myData?player=%E5%B8%83%E6%8B%89%E5%BE%B7%E5%88%A9-%E6%AF%94%E5%B0%94
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:0.002480s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002788s ]
+SQL: SHOW COLUMNS FROM `tb_statistics` [ RunTime:0.006078s ]
+SQL: SELECT `avgscore`,`shortrate`,`thirdrate`,`ft`,`mpg` FROM `tb_statistics` WHERE ( `player` = '布拉德利-比尔' )  [ RunTime:0.000919s ]
+NOTIC: [8] Use of undefined constant avgscore - assumed 'avgscore' C:\wamp\www\NBADemo\Home\Lib\Action\IndexAction.class.php 第 163 行.
+NOTIC: [8] Use of undefined constant shortrate - assumed 'shortrate' C:\wamp\www\NBADemo\Home\Lib\Action\IndexAction.class.php 第 164 行.
+NOTIC: [8] Use of undefined constant thirdrate - assumed 'thirdrate' C:\wamp\www\NBADemo\Home\Lib\Action\IndexAction.class.php 第 165 行.
+NOTIC: [8] Use of undefined constant ft - assumed 'ft' C:\wamp\www\NBADemo\Home\Lib\Action\IndexAction.class.php 第 166 行.
+NOTIC: [8] Use of undefined constant mpg - assumed 'mpg' C:\wamp\www\NBADemo\Home\Lib\Action\IndexAction.class.php 第 167 行.
+
+[ 2016-02-09T09:30:38+08:00 ] 0.0.0.0 /NBADemo/index.php/Index/info?do=15
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:0.000655s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000744s ]
+SQL: SHOW COLUMNS FROM `tb_statistics` [ RunTime:0.005529s ]
+SQL: SELECT * FROM `tb_statistics` WHERE ( `id` = 15 ) LIMIT 1   [ RunTime:0.003182s ]
+
+[ 2016-02-09T09:30:38+08:00 ] 0.0.0.0 /NBADemo/index.php/Index/myData?player=%E5%B8%83%E6%8B%89%E5%BE%B7%E5%88%A9-%E6%AF%94%E5%B0%94
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:0.000635s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000724s ]
+SQL: SHOW COLUMNS FROM `tb_statistics` [ RunTime:0.003681s ]
+SQL: SELECT `avgscore`,`shortrate`,`thirdrate`,`ft`,`mpg` FROM `tb_statistics` WHERE ( `player` = '布拉德利-比尔' )  [ RunTime:0.000417s ]
+NOTIC: [8] Use of undefined constant avgscore - assumed 'avgscore' C:\wamp\www\NBADemo\Home\Lib\Action\IndexAction.class.php 第 163 行.
+NOTIC: [8] Use of undefined constant shortrate - assumed 'shortrate' C:\wamp\www\NBADemo\Home\Lib\Action\IndexAction.class.php 第 164 行.
+NOTIC: [8] Use of undefined constant thirdrate - assumed 'thirdrate' C:\wamp\www\NBADemo\Home\Lib\Action\IndexAction.class.php 第 165 行.
+NOTIC: [8] Use of undefined constant ft - assumed 'ft' C:\wamp\www\NBADemo\Home\Lib\Action\IndexAction.class.php 第 166 行.
+NOTIC: [8] Use of undefined constant mpg - assumed 'mpg' C:\wamp\www\NBADemo\Home\Lib\Action\IndexAction.class.php 第 167 行.
+
+[ 2016-02-09T09:30:38+08:00 ] 0.0.0.0 /NBADemo/index.php/Index/info?do=2
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:0.000651s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000739s ]
+SQL: SHOW COLUMNS FROM `tb_statistics` [ RunTime:0.004235s ]
+SQL: SELECT * FROM `tb_statistics` WHERE ( `id` = 2 ) LIMIT 1   [ RunTime:0.001663s ]
+
+[ 2016-02-09T09:30:38+08:00 ] 0.0.0.0 /NBADemo/index.php/Index/myData?player=%E5%BE%B7%E9%A9%AC%E5%BA%93%E6%96%AF-%E8%80%83%E8%BE%9B%E6%96%AF
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:0.001566s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001839s ]
+SQL: SHOW COLUMNS FROM `tb_statistics` [ RunTime:0.004977s ]
+SQL: SELECT `avgscore`,`shortrate`,`thirdrate`,`ft`,`mpg` FROM `tb_statistics` WHERE ( `player` = '德马库斯-考辛斯' )  [ RunTime:0.000592s ]
+NOTIC: [8] Use of undefined constant avgscore - assumed 'avgscore' C:\wamp\www\NBADemo\Home\Lib\Action\IndexAction.class.php 第 163 行.
+NOTIC: [8] Use of undefined constant shortrate - assumed 'shortrate' C:\wamp\www\NBADemo\Home\Lib\Action\IndexAction.class.php 第 164 行.
+NOTIC: [8] Use of undefined constant thirdrate - assumed 'thirdrate' C:\wamp\www\NBADemo\Home\Lib\Action\IndexAction.class.php 第 165 行.
+NOTIC: [8] Use of undefined constant ft - assumed 'ft' C:\wamp\www\NBADemo\Home\Lib\Action\IndexAction.class.php 第 166 行.
+NOTIC: [8] Use of undefined constant mpg - assumed 'mpg' C:\wamp\www\NBADemo\Home\Lib\Action\IndexAction.class.php 第 167 行.
+
+[ 2016-02-09T09:30:38+08:00 ] 0.0.0.0 /NBADemo/index.php/Index/myData?player=%E5%BE%B7%E9%A9%AC%E5%BA%93%E6%96%AF-%E8%80%83%E8%BE%9B%E6%96%AF
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:0.000853s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000994s ]
+SQL: SHOW COLUMNS FROM `tb_statistics` [ RunTime:0.006569s ]
+SQL: SELECT `avgscore`,`shortrate`,`thirdrate`,`ft`,`mpg` FROM `tb_statistics` WHERE ( `player` = '德马库斯-考辛斯' )  [ RunTime:0.000540s ]
+NOTIC: [8] Use of undefined constant avgscore - assumed 'avgscore' C:\wamp\www\NBADemo\Home\Lib\Action\IndexAction.class.php 第 163 行.
+NOTIC: [8] Use of undefined constant shortrate - assumed 'shortrate' C:\wamp\www\NBADemo\Home\Lib\Action\IndexAction.class.php 第 164 行.
+NOTIC: [8] Use of undefined constant thirdrate - assumed 'thirdrate' C:\wamp\www\NBADemo\Home\Lib\Action\IndexAction.class.php 第 165 行.
+NOTIC: [8] Use of undefined constant ft - assumed 'ft' C:\wamp\www\NBADemo\Home\Lib\Action\IndexAction.class.php 第 166 行.
+NOTIC: [8] Use of undefined constant mpg - assumed 'mpg' C:\wamp\www\NBADemo\Home\Lib\Action\IndexAction.class.php 第 167 行.
+
+[ 2016-02-09T09:30:38+08:00 ] 0.0.0.0 /NBADemo/index.php/Index/info?do=13
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:0.001107s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001443s ]
+SQL: SHOW COLUMNS FROM `tb_statistics` [ RunTime:0.005944s ]
+SQL: SELECT * FROM `tb_statistics` WHERE ( `id` = 13 ) LIMIT 1   [ RunTime:0.000795s ]
+
+[ 2016-02-09T09:30:38+08:00 ] 0.0.0.0 /NBADemo/index.php/Index/myData?player=%E8%B4%BE%E9%A9%AC%E5%B0%94-%E5%85%8B%E5%8A%B3%E7%A6%8F%E5%BE%B7
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:0.001021s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001168s ]
+SQL: SHOW COLUMNS FROM `tb_statistics` [ RunTime:0.004400s ]
+SQL: SELECT `avgscore`,`shortrate`,`thirdrate`,`ft`,`mpg` FROM `tb_statistics` WHERE ( `player` = '贾马尔-克劳福德' )  [ RunTime:0.000747s ]
+NOTIC: [8] Use of undefined constant avgscore - assumed 'avgscore' C:\wamp\www\NBADemo\Home\Lib\Action\IndexAction.class.php 第 163 行.
+NOTIC: [8] Use of undefined constant shortrate - assumed 'shortrate' C:\wamp\www\NBADemo\Home\Lib\Action\IndexAction.class.php 第 164 行.
+NOTIC: [8] Use of undefined constant thirdrate - assumed 'thirdrate' C:\wamp\www\NBADemo\Home\Lib\Action\IndexAction.class.php 第 165 行.
+NOTIC: [8] Use of undefined constant ft - assumed 'ft' C:\wamp\www\NBADemo\Home\Lib\Action\IndexAction.class.php 第 166 行.
+NOTIC: [8] Use of undefined constant mpg - assumed 'mpg' C:\wamp\www\NBADemo\Home\Lib\Action\IndexAction.class.php 第 167 行.
+
+[ 2016-02-09T09:30:38+08:00 ] 0.0.0.0 /NBADemo/index.php/Index/info?do=13
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:0.000969s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001111s ]
+SQL: SHOW COLUMNS FROM `tb_statistics` [ RunTime:0.006014s ]
+SQL: SELECT * FROM `tb_statistics` WHERE ( `id` = 13 ) LIMIT 1   [ RunTime:0.000889s ]
+
+[ 2016-02-09T09:30:38+08:00 ] 0.0.0.0 /NBADemo/index.php/Index/myData?player=%E5%BE%B7%E9%A9%AC%E5%BA%93%E6%96%AF-%E8%80%83%E8%BE%9B%E6%96%AF
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:0.001024s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001293s ]
+SQL: SHOW COLUMNS FROM `tb_statistics` [ RunTime:0.003690s ]
+SQL: SELECT `avgscore`,`shortrate`,`thirdrate`,`ft`,`mpg` FROM `tb_statistics` WHERE ( `player` = '德马库斯-考辛斯' )  [ RunTime:0.001119s ]
+NOTIC: [8] Use of undefined constant avgscore - assumed 'avgscore' C:\wamp\www\NBADemo\Home\Lib\Action\IndexAction.class.php 第 163 行.
+NOTIC: [8] Use of undefined constant shortrate - assumed 'shortrate' C:\wamp\www\NBADemo\Home\Lib\Action\IndexAction.class.php 第 164 行.
+NOTIC: [8] Use of undefined constant thirdrate - assumed 'thirdrate' C:\wamp\www\NBADemo\Home\Lib\Action\IndexAction.class.php 第 165 行.
+NOTIC: [8] Use of undefined constant ft - assumed 'ft' C:\wamp\www\NBADemo\Home\Lib\Action\IndexAction.class.php 第 166 行.
+NOTIC: [8] Use of undefined constant mpg - assumed 'mpg' C:\wamp\www\NBADemo\Home\Lib\Action\IndexAction.class.php 第 167 行.
+
+[ 2016-02-09T09:30:38+08:00 ] 0.0.0.0 /NBADemo/index.php/Index/info?do=2
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:0.000972s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001118s ]
+SQL: SHOW COLUMNS FROM `tb_statistics` [ RunTime:0.005137s ]
+SQL: SELECT * FROM `tb_statistics` WHERE ( `id` = 2 ) LIMIT 1   [ RunTime:0.000840s ]
+
+[ 2016-02-09T09:30:38+08:00 ] 0.0.0.0 /NBADemo/index.php/Index/myData?player=%E8%B4%BE%E9%A9%AC%E5%B0%94-%E5%85%8B%E5%8A%B3%E7%A6%8F%E5%BE%B7
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:0.000683s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000773s ]
+SQL: SHOW COLUMNS FROM `tb_statistics` [ RunTime:0.005712s ]
+SQL: SELECT `avgscore`,`shortrate`,`thirdrate`,`ft`,`mpg` FROM `tb_statistics` WHERE ( `player` = '贾马尔-克劳福德' )  [ RunTime:0.000471s ]
+NOTIC: [8] Use of undefined constant avgscore - assumed 'avgscore' C:\wamp\www\NBADemo\Home\Lib\Action\IndexAction.class.php 第 163 行.
+NOTIC: [8] Use of undefined constant shortrate - assumed 'shortrate' C:\wamp\www\NBADemo\Home\Lib\Action\IndexAction.class.php 第 164 行.
+NOTIC: [8] Use of undefined constant thirdrate - assumed 'thirdrate' C:\wamp\www\NBADemo\Home\Lib\Action\IndexAction.class.php 第 165 行.
+NOTIC: [8] Use of undefined constant ft - assumed 'ft' C:\wamp\www\NBADemo\Home\Lib\Action\IndexAction.class.php 第 166 行.
+NOTIC: [8] Use of undefined constant mpg - assumed 'mpg' C:\wamp\www\NBADemo\Home\Lib\Action\IndexAction.class.php 第 167 行.
+
+[ 2016-02-09T09:30:38+08:00 ] 0.0.0.0 /NBADemo/index.php/Index/info?do=2
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:0.000942s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001082s ]
+SQL: SHOW COLUMNS FROM `tb_statistics` [ RunTime:0.005217s ]
+SQL: SELECT * FROM `tb_statistics` WHERE ( `id` = 2 ) LIMIT 1   [ RunTime:0.000797s ]
+
+[ 2016-02-09T09:30:38+08:00 ] 0.0.0.0 /NBADemo/index.php/Index/myData?player=%E5%BE%B7%E9%A9%AC%E5%BA%93%E6%96%AF-%E8%80%83%E8%BE%9B%E6%96%AF
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:0.000889s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001004s ]
+SQL: SHOW COLUMNS FROM `tb_statistics` [ RunTime:0.005441s ]
+SQL: SELECT `avgscore`,`shortrate`,`thirdrate`,`ft`,`mpg` FROM `tb_statistics` WHERE ( `player` = '德马库斯-考辛斯' )  [ RunTime:0.000538s ]
+NOTIC: [8] Use of undefined constant avgscore - assumed 'avgscore' C:\wamp\www\NBADemo\Home\Lib\Action\IndexAction.class.php 第 163 行.
+NOTIC: [8] Use of undefined constant shortrate - assumed 'shortrate' C:\wamp\www\NBADemo\Home\Lib\Action\IndexAction.class.php 第 164 行.
+NOTIC: [8] Use of undefined constant thirdrate - assumed 'thirdrate' C:\wamp\www\NBADemo\Home\Lib\Action\IndexAction.class.php 第 165 行.
+NOTIC: [8] Use of undefined constant ft - assumed 'ft' C:\wamp\www\NBADemo\Home\Lib\Action\IndexAction.class.php 第 166 行.
+NOTIC: [8] Use of undefined constant mpg - assumed 'mpg' C:\wamp\www\NBADemo\Home\Lib\Action\IndexAction.class.php 第 167 行.
+
+[ 2016-02-09T09:30:39+08:00 ] 0.0.0.0 /NBADemo/index.php/Index/myData?player=%E5%B8%83%E9%9B%B7%E5%85%8B-%E6%A0%BC%E9%87%8C%E8%8A%AC
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:0.000983s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001127s ]
+SQL: SHOW COLUMNS FROM `tb_statistics` [ RunTime:0.004085s ]
+SQL: SELECT `avgscore`,`shortrate`,`thirdrate`,`ft`,`mpg` FROM `tb_statistics` WHERE ( `player` = '布雷克-格里芬' )  [ RunTime:0.000497s ]
+NOTIC: [8] Use of undefined constant avgscore - assumed 'avgscore' C:\wamp\www\NBADemo\Home\Lib\Action\IndexAction.class.php 第 163 行.
+NOTIC: [8] Use of undefined constant shortrate - assumed 'shortrate' C:\wamp\www\NBADemo\Home\Lib\Action\IndexAction.class.php 第 164 行.
+NOTIC: [8] Use of undefined constant thirdrate - assumed 'thirdrate' C:\wamp\www\NBADemo\Home\Lib\Action\IndexAction.class.php 第 165 行.
+NOTIC: [8] Use of undefined constant ft - assumed 'ft' C:\wamp\www\NBADemo\Home\Lib\Action\IndexAction.class.php 第 166 行.
+NOTIC: [8] Use of undefined constant mpg - assumed 'mpg' C:\wamp\www\NBADemo\Home\Lib\Action\IndexAction.class.php 第 167 行.
+
+[ 2016-02-09T09:30:39+08:00 ] 0.0.0.0 /NBADemo/index.php/Index/info?do=4
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:0.000770s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000883s ]
+SQL: SHOW COLUMNS FROM `tb_statistics` [ RunTime:0.008188s ]
+SQL: SELECT * FROM `tb_statistics` WHERE ( `id` = 4 ) LIMIT 1   [ RunTime:0.001261s ]
+
+[ 2016-02-09T09:30:39+08:00 ] 0.0.0.0 /NBADemo/index.php/Index/myData?player=%E5%B8%83%E9%9B%B7%E5%85%8B-%E6%A0%BC%E9%87%8C%E8%8A%AC
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:0.001662s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002261s ]
+SQL: SHOW COLUMNS FROM `tb_statistics` [ RunTime:0.007297s ]
+SQL: SELECT `avgscore`,`shortrate`,`thirdrate`,`ft`,`mpg` FROM `tb_statistics` WHERE ( `player` = '布雷克-格里芬' )  [ RunTime:0.000472s ]
+NOTIC: [8] Use of undefined constant avgscore - assumed 'avgscore' C:\wamp\www\NBADemo\Home\Lib\Action\IndexAction.class.php 第 163 行.
+NOTIC: [8] Use of undefined constant shortrate - assumed 'shortrate' C:\wamp\www\NBADemo\Home\Lib\Action\IndexAction.class.php 第 164 行.
+NOTIC: [8] Use of undefined constant thirdrate - assumed 'thirdrate' C:\wamp\www\NBADemo\Home\Lib\Action\IndexAction.class.php 第 165 行.
+NOTIC: [8] Use of undefined constant ft - assumed 'ft' C:\wamp\www\NBADemo\Home\Lib\Action\IndexAction.class.php 第 166 行.
+NOTIC: [8] Use of undefined constant mpg - assumed 'mpg' C:\wamp\www\NBADemo\Home\Lib\Action\IndexAction.class.php 第 167 行.
+
+[ 2016-02-09T09:30:52+08:00 ] 0.0.0.0 /NBADemo/index.php/Index/info?do=9
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:0.001083s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001244s ]
+SQL: SHOW COLUMNS FROM `tb_statistics` [ RunTime:0.005205s ]
+SQL: SELECT * FROM `tb_statistics` WHERE ( `id` = 9 ) LIMIT 1   [ RunTime:0.000972s ]
+
+[ 2016-02-09T09:30:52+08:00 ] 0.0.0.0 /NBADemo/index.php/Index/info?do=5
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:0.002033s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002185s ]
+SQL: SHOW COLUMNS FROM `tb_statistics` [ RunTime:0.005867s ]
+SQL: SELECT * FROM `tb_statistics` WHERE ( `id` = 5 ) LIMIT 1   [ RunTime:0.001499s ]
+
+[ 2016-02-09T09:30:52+08:00 ] 0.0.0.0 /NBADemo/index.php/Index/myData?player=%E5%BE%B7%E7%8E%9B%E5%B0%94-%E5%BE%B7%E7%BD%97%E8%B5%9E
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:0.000929s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001071s ]
+SQL: SHOW COLUMNS FROM `tb_statistics` [ RunTime:0.004629s ]
+SQL: SELECT `avgscore`,`shortrate`,`thirdrate`,`ft`,`mpg` FROM `tb_statistics` WHERE ( `player` = '德玛尔-德罗赞' )  [ RunTime:0.000411s ]
+NOTIC: [8] Use of undefined constant avgscore - assumed 'avgscore' C:\wamp\www\NBADemo\Home\Lib\Action\IndexAction.class.php 第 163 行.
+NOTIC: [8] Use of undefined constant shortrate - assumed 'shortrate' C:\wamp\www\NBADemo\Home\Lib\Action\IndexAction.class.php 第 164 行.
+NOTIC: [8] Use of undefined constant thirdrate - assumed 'thirdrate' C:\wamp\www\NBADemo\Home\Lib\Action\IndexAction.class.php 第 165 行.
+NOTIC: [8] Use of undefined constant ft - assumed 'ft' C:\wamp\www\NBADemo\Home\Lib\Action\IndexAction.class.php 第 166 行.
+NOTIC: [8] Use of undefined constant mpg - assumed 'mpg' C:\wamp\www\NBADemo\Home\Lib\Action\IndexAction.class.php 第 167 行.
+
+[ 2016-02-09T09:30:52+08:00 ] 0.0.0.0 /NBADemo/index.php/Index/myData?player=%E5%85%8B%E9%9B%B7-%E6%B1%A4%E6%99%AE%E6%A3%AE
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:0.001218s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001375s ]
+SQL: SHOW COLUMNS FROM `tb_statistics` [ RunTime:0.005446s ]
+SQL: SELECT `avgscore`,`shortrate`,`thirdrate`,`ft`,`mpg` FROM `tb_statistics` WHERE ( `player` = '克雷-汤普森' )  [ RunTime:0.000861s ]
+NOTIC: [8] Use of undefined constant avgscore - assumed 'avgscore' C:\wamp\www\NBADemo\Home\Lib\Action\IndexAction.class.php 第 163 行.
+NOTIC: [8] Use of undefined constant shortrate - assumed 'shortrate' C:\wamp\www\NBADemo\Home\Lib\Action\IndexAction.class.php 第 164 行.
+NOTIC: [8] Use of undefined constant thirdrate - assumed 'thirdrate' C:\wamp\www\NBADemo\Home\Lib\Action\IndexAction.class.php 第 165 行.
+NOTIC: [8] Use of undefined constant ft - assumed 'ft' C:\wamp\www\NBADemo\Home\Lib\Action\IndexAction.class.php 第 166 行.
+NOTIC: [8] Use of undefined constant mpg - assumed 'mpg' C:\wamp\www\NBADemo\Home\Lib\Action\IndexAction.class.php 第 167 行.
+
+[ 2016-02-09T09:30:52+08:00 ] 0.0.0.0 /NBADemo/index.php/Index/myData?player=%E5%BE%B7%E7%8E%9B%E5%B0%94-%E5%BE%B7%E7%BD%97%E8%B5%9E
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:0.000884s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001008s ]
+SQL: SHOW COLUMNS FROM `tb_statistics` [ RunTime:0.005042s ]
+SQL: SELECT `avgscore`,`shortrate`,`thirdrate`,`ft`,`mpg` FROM `tb_statistics` WHERE ( `player` = '德玛尔-德罗赞' )  [ RunTime:0.000480s ]
+NOTIC: [8] Use of undefined constant avgscore - assumed 'avgscore' C:\wamp\www\NBADemo\Home\Lib\Action\IndexAction.class.php 第 163 行.
+NOTIC: [8] Use of undefined constant shortrate - assumed 'shortrate' C:\wamp\www\NBADemo\Home\Lib\Action\IndexAction.class.php 第 164 行.
+NOTIC: [8] Use of undefined constant thirdrate - assumed 'thirdrate' C:\wamp\www\NBADemo\Home\Lib\Action\IndexAction.class.php 第 165 行.
+NOTIC: [8] Use of undefined constant ft - assumed 'ft' C:\wamp\www\NBADemo\Home\Lib\Action\IndexAction.class.php 第 166 行.
+NOTIC: [8] Use of undefined constant mpg - assumed 'mpg' C:\wamp\www\NBADemo\Home\Lib\Action\IndexAction.class.php 第 167 行.
+
+[ 2016-02-09T09:30:52+08:00 ] 0.0.0.0 /NBADemo/index.php/Index/myData?player=%E5%85%8B%E9%87%8C%E6%96%AF-%E4%BF%9D%E7%BD%97
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:0.000950s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001070s ]
+SQL: SHOW COLUMNS FROM `tb_statistics` [ RunTime:0.005983s ]
+SQL: SELECT `avgscore`,`shortrate`,`thirdrate`,`ft`,`mpg` FROM `tb_statistics` WHERE ( `player` = '克里斯-保罗' )  [ RunTime:0.000674s ]
+NOTIC: [8] Use of undefined constant avgscore - assumed 'avgscore' C:\wamp\www\NBADemo\Home\Lib\Action\IndexAction.class.php 第 163 行.
+NOTIC: [8] Use of undefined constant shortrate - assumed 'shortrate' C:\wamp\www\NBADemo\Home\Lib\Action\IndexAction.class.php 第 164 行.
+NOTIC: [8] Use of undefined constant thirdrate - assumed 'thirdrate' C:\wamp\www\NBADemo\Home\Lib\Action\IndexAction.class.php 第 165 行.
+NOTIC: [8] Use of undefined constant ft - assumed 'ft' C:\wamp\www\NBADemo\Home\Lib\Action\IndexAction.class.php 第 166 行.
+NOTIC: [8] Use of undefined constant mpg - assumed 'mpg' C:\wamp\www\NBADemo\Home\Lib\Action\IndexAction.class.php 第 167 行.
+
+[ 2016-02-09T09:30:52+08:00 ] 0.0.0.0 /NBADemo/index.php/Index/info?do=12
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:0.003405s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003558s ]
+SQL: SHOW COLUMNS FROM `tb_statistics` [ RunTime:0.006140s ]
+SQL: SELECT * FROM `tb_statistics` WHERE ( `id` = 12 ) LIMIT 1   [ RunTime:0.000886s ]
+
+[ 2016-02-09T09:30:52+08:00 ] 0.0.0.0 /NBADemo/index.php/Index/myData?player=%E5%85%8B%E9%9B%B7-%E6%B1%A4%E6%99%AE%E6%A3%AE
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:0.001150s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001335s ]
+SQL: SHOW COLUMNS FROM `tb_statistics` [ RunTime:0.005779s ]
+SQL: SELECT `avgscore`,`shortrate`,`thirdrate`,`ft`,`mpg` FROM `tb_statistics` WHERE ( `player` = '克雷-汤普森' )  [ RunTime:0.000645s ]
+NOTIC: [8] Use of undefined constant avgscore - assumed 'avgscore' C:\wamp\www\NBADemo\Home\Lib\Action\IndexAction.class.php 第 163 行.
+NOTIC: [8] Use of undefined constant shortrate - assumed 'shortrate' C:\wamp\www\NBADemo\Home\Lib\Action\IndexAction.class.php 第 164 行.
+NOTIC: [8] Use of undefined constant thirdrate - assumed 'thirdrate' C:\wamp\www\NBADemo\Home\Lib\Action\IndexAction.class.php 第 165 行.
+NOTIC: [8] Use of undefined constant ft - assumed 'ft' C:\wamp\www\NBADemo\Home\Lib\Action\IndexAction.class.php 第 166 行.
+NOTIC: [8] Use of undefined constant mpg - assumed 'mpg' C:\wamp\www\NBADemo\Home\Lib\Action\IndexAction.class.php 第 167 行.
+
+[ 2016-02-09T09:30:52+08:00 ] 0.0.0.0 /NBADemo/index.php/Index/info?do=8
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:0.001047s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001198s ]
+SQL: SHOW COLUMNS FROM `tb_statistics` [ RunTime:0.006289s ]
+SQL: SELECT * FROM `tb_statistics` WHERE ( `id` = 8 ) LIMIT 1   [ RunTime:0.000878s ]
+
+[ 2016-02-09T09:30:52+08:00 ] 0.0.0.0 /NBADemo/index.php/Index/myData?player=%E5%85%8B%E9%87%8C%E6%96%AF-%E4%BF%9D%E7%BD%97
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:0.000948s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001095s ]
+SQL: SHOW COLUMNS FROM `tb_statistics` [ RunTime:0.010963s ]
+SQL: SELECT `avgscore`,`shortrate`,`thirdrate`,`ft`,`mpg` FROM `tb_statistics` WHERE ( `player` = '克里斯-保罗' )  [ RunTime:0.001397s ]
+NOTIC: [8] Use of undefined constant avgscore - assumed 'avgscore' C:\wamp\www\NBADemo\Home\Lib\Action\IndexAction.class.php 第 163 行.
+NOTIC: [8] Use of undefined constant shortrate - assumed 'shortrate' C:\wamp\www\NBADemo\Home\Lib\Action\IndexAction.class.php 第 164 行.
+NOTIC: [8] Use of undefined constant thirdrate - assumed 'thirdrate' C:\wamp\www\NBADemo\Home\Lib\Action\IndexAction.class.php 第 165 行.
+NOTIC: [8] Use of undefined constant ft - assumed 'ft' C:\wamp\www\NBADemo\Home\Lib\Action\IndexAction.class.php 第 166 行.
+NOTIC: [8] Use of undefined constant mpg - assumed 'mpg' C:\wamp\www\NBADemo\Home\Lib\Action\IndexAction.class.php 第 167 行.
+
+[ 2016-02-09T09:30:52+08:00 ] 0.0.0.0 /NBADemo/index.php/Index/myData?player=%E8%BE%BE%E7%B1%B3%E5%AE%89-%E5%88%A9%E6%8B%89%E5%BE%B7
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:0.000816s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000939s ]
+SQL: SHOW COLUMNS FROM `tb_statistics` [ RunTime:0.005092s ]
+SQL: SELECT `avgscore`,`shortrate`,`thirdrate`,`ft`,`mpg` FROM `tb_statistics` WHERE ( `player` = '达米安-利拉德' )  [ RunTime:0.000612s ]
+NOTIC: [8] Use of undefined constant avgscore - assumed 'avgscore' C:\wamp\www\NBADemo\Home\Lib\Action\IndexAction.class.php 第 163 行.
+NOTIC: [8] Use of undefined constant shortrate - assumed 'shortrate' C:\wamp\www\NBADemo\Home\Lib\Action\IndexAction.class.php 第 164 行.
+NOTIC: [8] Use of undefined constant thirdrate - assumed 'thirdrate' C:\wamp\www\NBADemo\Home\Lib\Action\IndexAction.class.php 第 165 行.
+NOTIC: [8] Use of undefined constant ft - assumed 'ft' C:\wamp\www\NBADemo\Home\Lib\Action\IndexAction.class.php 第 166 行.
+NOTIC: [8] Use of undefined constant mpg - assumed 'mpg' C:\wamp\www\NBADemo\Home\Lib\Action\IndexAction.class.php 第 167 行.
+
+[ 2016-02-09T09:30:52+08:00 ] 0.0.0.0 /NBADemo/index.php/Index/info?do=7
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:0.001252s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001402s ]
+SQL: SHOW COLUMNS FROM `tb_statistics` [ RunTime:0.006190s ]
+SQL: SELECT * FROM `tb_statistics` WHERE ( `id` = 7 ) LIMIT 1   [ RunTime:0.000804s ]
+
+[ 2016-02-09T09:30:52+08:00 ] 0.0.0.0 /NBADemo/index.php/Index/myData?player=%E9%B2%81%E8%BF%AA-%E7%9B%96%E4%BC%8A
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:0.001031s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001189s ]
+SQL: SHOW COLUMNS FROM `tb_statistics` [ RunTime:0.003877s ]
+SQL: SELECT `avgscore`,`shortrate`,`thirdrate`,`ft`,`mpg` FROM `tb_statistics` WHERE ( `player` = '鲁迪-盖伊' )  [ RunTime:0.000790s ]
+NOTIC: [8] Use of undefined constant avgscore - assumed 'avgscore' C:\wamp\www\NBADemo\Home\Lib\Action\IndexAction.class.php 第 163 行.
+NOTIC: [8] Use of undefined constant shortrate - assumed 'shortrate' C:\wamp\www\NBADemo\Home\Lib\Action\IndexAction.class.php 第 164 行.
+NOTIC: [8] Use of undefined constant thirdrate - assumed 'thirdrate' C:\wamp\www\NBADemo\Home\Lib\Action\IndexAction.class.php 第 165 行.
+NOTIC: [8] Use of undefined constant ft - assumed 'ft' C:\wamp\www\NBADemo\Home\Lib\Action\IndexAction.class.php 第 166 行.
+NOTIC: [8] Use of undefined constant mpg - assumed 'mpg' C:\wamp\www\NBADemo\Home\Lib\Action\IndexAction.class.php 第 167 行.
+
+[ 2016-02-09T09:30:52+08:00 ] 0.0.0.0 /NBADemo/index.php/Index/myData?player=%E8%BE%BE%E7%B1%B3%E5%AE%89-%E5%88%A9%E6%8B%89%E5%BE%B7
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:0.001035s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001185s ]
+SQL: SHOW COLUMNS FROM `tb_statistics` [ RunTime:0.003891s ]
+SQL: SELECT `avgscore`,`shortrate`,`thirdrate`,`ft`,`mpg` FROM `tb_statistics` WHERE ( `player` = '达米安-利拉德' )  [ RunTime:0.000469s ]
+NOTIC: [8] Use of undefined constant avgscore - assumed 'avgscore' C:\wamp\www\NBADemo\Home\Lib\Action\IndexAction.class.php 第 163 行.
+NOTIC: [8] Use of undefined constant shortrate - assumed 'shortrate' C:\wamp\www\NBADemo\Home\Lib\Action\IndexAction.class.php 第 164 行.
+NOTIC: [8] Use of undefined constant thirdrate - assumed 'thirdrate' C:\wamp\www\NBADemo\Home\Lib\Action\IndexAction.class.php 第 165 行.
+NOTIC: [8] Use of undefined constant ft - assumed 'ft' C:\wamp\www\NBADemo\Home\Lib\Action\IndexAction.class.php 第 166 行.
+NOTIC: [8] Use of undefined constant mpg - assumed 'mpg' C:\wamp\www\NBADemo\Home\Lib\Action\IndexAction.class.php 第 167 行.
+
+[ 2016-02-09T09:30:52+08:00 ] 0.0.0.0 /NBADemo/index.php/Index/myData?player=%E9%B2%81%E8%BF%AA-%E7%9B%96%E4%BC%8A
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:0.000647s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000739s ]
+SQL: SHOW COLUMNS FROM `tb_statistics` [ RunTime:0.004310s ]
+SQL: SELECT `avgscore`,`shortrate`,`thirdrate`,`ft`,`mpg` FROM `tb_statistics` WHERE ( `player` = '鲁迪-盖伊' )  [ RunTime:0.000619s ]
+NOTIC: [8] Use of undefined constant avgscore - assumed 'avgscore' C:\wamp\www\NBADemo\Home\Lib\Action\IndexAction.class.php 第 163 行.
+NOTIC: [8] Use of undefined constant shortrate - assumed 'shortrate' C:\wamp\www\NBADemo\Home\Lib\Action\IndexAction.class.php 第 164 行.
+NOTIC: [8] Use of undefined constant thirdrate - assumed 'thirdrate' C:\wamp\www\NBADemo\Home\Lib\Action\IndexAction.class.php 第 165 行.
+NOTIC: [8] Use of undefined constant ft - assumed 'ft' C:\wamp\www\NBADemo\Home\Lib\Action\IndexAction.class.php 第 166 行.
+NOTIC: [8] Use of undefined constant mpg - assumed 'mpg' C:\wamp\www\NBADemo\Home\Lib\Action\IndexAction.class.php 第 167 行.
+
+[ 2016-02-09T09:30:53+08:00 ] 0.0.0.0 /NBADemo/index.php/Index/myData?player=%E8%BE%BE%E7%B1%B3%E5%AE%89-%E5%88%A9%E6%8B%89%E5%BE%B7
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:0.000613s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000704s ]
+SQL: SHOW COLUMNS FROM `tb_statistics` [ RunTime:0.004459s ]
+SQL: SELECT `avgscore`,`shortrate`,`thirdrate`,`ft`,`mpg` FROM `tb_statistics` WHERE ( `player` = '达米安-利拉德' )  [ RunTime:0.001476s ]
+NOTIC: [8] Use of undefined constant avgscore - assumed 'avgscore' C:\wamp\www\NBADemo\Home\Lib\Action\IndexAction.class.php 第 163 行.
+NOTIC: [8] Use of undefined constant shortrate - assumed 'shortrate' C:\wamp\www\NBADemo\Home\Lib\Action\IndexAction.class.php 第 164 行.
+NOTIC: [8] Use of undefined constant thirdrate - assumed 'thirdrate' C:\wamp\www\NBADemo\Home\Lib\Action\IndexAction.class.php 第 165 行.
+NOTIC: [8] Use of undefined constant ft - assumed 'ft' C:\wamp\www\NBADemo\Home\Lib\Action\IndexAction.class.php 第 166 行.
+NOTIC: [8] Use of undefined constant mpg - assumed 'mpg' C:\wamp\www\NBADemo\Home\Lib\Action\IndexAction.class.php 第 167 行.
+
+[ 2016-02-09T09:30:53+08:00 ] 0.0.0.0 /NBADemo/index.php/Index/info?do=8
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:0.002215s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002504s ]
+SQL: SHOW COLUMNS FROM `tb_statistics` [ RunTime:0.006925s ]
+SQL: SELECT * FROM `tb_statistics` WHERE ( `id` = 8 ) LIMIT 1   [ RunTime:0.000835s ]
+
+[ 2016-02-09T09:30:53+08:00 ] 0.0.0.0 /NBADemo/index.php/Index/myData?player=%E8%BE%BE%E7%B1%B3%E5%AE%89-%E5%88%A9%E6%8B%89%E5%BE%B7
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:0.000666s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000765s ]
+SQL: SHOW COLUMNS FROM `tb_statistics` [ RunTime:0.005488s ]
+SQL: SELECT `avgscore`,`shortrate`,`thirdrate`,`ft`,`mpg` FROM `tb_statistics` WHERE ( `player` = '达米安-利拉德' )  [ RunTime:0.000661s ]
+NOTIC: [8] Use of undefined constant avgscore - assumed 'avgscore' C:\wamp\www\NBADemo\Home\Lib\Action\IndexAction.class.php 第 163 行.
+NOTIC: [8] Use of undefined constant shortrate - assumed 'shortrate' C:\wamp\www\NBADemo\Home\Lib\Action\IndexAction.class.php 第 164 行.
+NOTIC: [8] Use of undefined constant thirdrate - assumed 'thirdrate' C:\wamp\www\NBADemo\Home\Lib\Action\IndexAction.class.php 第 165 行.
+NOTIC: [8] Use of undefined constant ft - assumed 'ft' C:\wamp\www\NBADemo\Home\Lib\Action\IndexAction.class.php 第 166 行.
+NOTIC: [8] Use of undefined constant mpg - assumed 'mpg' C:\wamp\www\NBADemo\Home\Lib\Action\IndexAction.class.php 第 167 行.
+
+[ 2016-02-09T09:30:53+08:00 ] 0.0.0.0 /NBADemo/index.php/Index/myData?player=%E5%85%8B%E9%87%8C%E6%96%AF-%E4%BF%9D%E7%BD%97
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:0.000974s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001116s ]
+SQL: SHOW COLUMNS FROM `tb_statistics` [ RunTime:0.006178s ]
+SQL: SELECT `avgscore`,`shortrate`,`thirdrate`,`ft`,`mpg` FROM `tb_statistics` WHERE ( `player` = '克里斯-保罗' )  [ RunTime:0.000675s ]
+NOTIC: [8] Use of undefined constant avgscore - assumed 'avgscore' C:\wamp\www\NBADemo\Home\Lib\Action\IndexAction.class.php 第 163 行.
+NOTIC: [8] Use of undefined constant shortrate - assumed 'shortrate' C:\wamp\www\NBADemo\Home\Lib\Action\IndexAction.class.php 第 164 行.
+NOTIC: [8] Use of undefined constant thirdrate - assumed 'thirdrate' C:\wamp\www\NBADemo\Home\Lib\Action\IndexAction.class.php 第 165 行.
+NOTIC: [8] Use of undefined constant ft - assumed 'ft' C:\wamp\www\NBADemo\Home\Lib\Action\IndexAction.class.php 第 166 行.
+NOTIC: [8] Use of undefined constant mpg - assumed 'mpg' C:\wamp\www\NBADemo\Home\Lib\Action\IndexAction.class.php 第 167 行.
+
+[ 2016-02-09T09:30:53+08:00 ] 0.0.0.0 /NBADemo/index.php/Index/info?do=12
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:0.001180s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001337s ]
+SQL: SHOW COLUMNS FROM `tb_statistics` [ RunTime:0.005292s ]
+SQL: SELECT * FROM `tb_statistics` WHERE ( `id` = 12 ) LIMIT 1   [ RunTime:0.001014s ]
+
+[ 2016-02-09T09:30:53+08:00 ] 0.0.0.0 /NBADemo/index.php/Index/myData?player=%E5%85%8B%E9%9B%B7-%E6%B1%A4%E6%99%AE%E6%A3%AE
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:0.001056s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001223s ]
+SQL: SHOW COLUMNS FROM `tb_statistics` [ RunTime:0.005981s ]
+SQL: SELECT `avgscore`,`shortrate`,`thirdrate`,`ft`,`mpg` FROM `tb_statistics` WHERE ( `player` = '克雷-汤普森' )  [ RunTime:0.002018s ]
+NOTIC: [8] Use of undefined constant avgscore - assumed 'avgscore' C:\wamp\www\NBADemo\Home\Lib\Action\IndexAction.class.php 第 163 行.
+NOTIC: [8] Use of undefined constant shortrate - assumed 'shortrate' C:\wamp\www\NBADemo\Home\Lib\Action\IndexAction.class.php 第 164 行.
+NOTIC: [8] Use of undefined constant thirdrate - assumed 'thirdrate' C:\wamp\www\NBADemo\Home\Lib\Action\IndexAction.class.php 第 165 行.
+NOTIC: [8] Use of undefined constant ft - assumed 'ft' C:\wamp\www\NBADemo\Home\Lib\Action\IndexAction.class.php 第 166 行.
+NOTIC: [8] Use of undefined constant mpg - assumed 'mpg' C:\wamp\www\NBADemo\Home\Lib\Action\IndexAction.class.php 第 167 行.
+
+[ 2016-02-09T09:30:53+08:00 ] 0.0.0.0 /NBADemo/index.php/Index/info?do=5
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:0.001935s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002106s ]
+SQL: SHOW COLUMNS FROM `tb_statistics` [ RunTime:0.008421s ]
+SQL: SELECT * FROM `tb_statistics` WHERE ( `id` = 5 ) LIMIT 1   [ RunTime:0.001231s ]
+
+[ 2016-02-09T09:30:53+08:00 ] 0.0.0.0 /NBADemo/index.php/Index/myData?player=%E5%85%8B%E9%87%8C%E6%96%AF-%E4%BF%9D%E7%BD%97
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:0.001043s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001179s ]
+SQL: SHOW COLUMNS FROM `tb_statistics` [ RunTime:0.004813s ]
+SQL: SELECT `avgscore`,`shortrate`,`thirdrate`,`ft`,`mpg` FROM `tb_statistics` WHERE ( `player` = '克里斯-保罗' )  [ RunTime:0.000487s ]
+NOTIC: [8] Use of undefined constant avgscore - assumed 'avgscore' C:\wamp\www\NBADemo\Home\Lib\Action\IndexAction.class.php 第 163 行.
+NOTIC: [8] Use of undefined constant shortrate - assumed 'shortrate' C:\wamp\www\NBADemo\Home\Lib\Action\IndexAction.class.php 第 164 行.
+NOTIC: [8] Use of undefined constant thirdrate - assumed 'thirdrate' C:\wamp\www\NBADemo\Home\Lib\Action\IndexAction.class.php 第 165 行.
+NOTIC: [8] Use of undefined constant ft - assumed 'ft' C:\wamp\www\NBADemo\Home\Lib\Action\IndexAction.class.php 第 166 行.
+NOTIC: [8] Use of undefined constant mpg - assumed 'mpg' C:\wamp\www\NBADemo\Home\Lib\Action\IndexAction.class.php 第 167 行.
+
+[ 2016-02-09T09:30:53+08:00 ] 0.0.0.0 /NBADemo/index.php/Index/myData?player=%E5%BE%B7%E7%8E%9B%E5%B0%94-%E5%BE%B7%E7%BD%97%E8%B5%9E
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:0.000952s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001121s ]
+SQL: SHOW COLUMNS FROM `tb_statistics` [ RunTime:0.004520s ]
+SQL: SELECT `avgscore`,`shortrate`,`thirdrate`,`ft`,`mpg` FROM `tb_statistics` WHERE ( `player` = '德玛尔-德罗赞' )  [ RunTime:0.000557s ]
+NOTIC: [8] Use of undefined constant avgscore - assumed 'avgscore' C:\wamp\www\NBADemo\Home\Lib\Action\IndexAction.class.php 第 163 行.
+NOTIC: [8] Use of undefined constant shortrate - assumed 'shortrate' C:\wamp\www\NBADemo\Home\Lib\Action\IndexAction.class.php 第 164 行.
+NOTIC: [8] Use of undefined constant thirdrate - assumed 'thirdrate' C:\wamp\www\NBADemo\Home\Lib\Action\IndexAction.class.php 第 165 行.
+NOTIC: [8] Use of undefined constant ft - assumed 'ft' C:\wamp\www\NBADemo\Home\Lib\Action\IndexAction.class.php 第 166 行.
+NOTIC: [8] Use of undefined constant mpg - assumed 'mpg' C:\wamp\www\NBADemo\Home\Lib\Action\IndexAction.class.php 第 167 行.
+
+[ 2016-02-09T09:30:53+08:00 ] 0.0.0.0 /NBADemo/index.php/Index/info?do=9
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:0.001378s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001561s ]
+SQL: SHOW COLUMNS FROM `tb_statistics` [ RunTime:0.008099s ]
+SQL: SELECT * FROM `tb_statistics` WHERE ( `id` = 9 ) LIMIT 1   [ RunTime:0.001133s ]
+
+[ 2016-02-09T09:30:53+08:00 ] 0.0.0.0 /NBADemo/index.php/Index/myData?player=%E5%85%8B%E9%9B%B7-%E6%B1%A4%E6%99%AE%E6%A3%AE
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:0.001094s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001354s ]
+SQL: SHOW COLUMNS FROM `tb_statistics` [ RunTime:0.006237s ]
+SQL: SELECT `avgscore`,`shortrate`,`thirdrate`,`ft`,`mpg` FROM `tb_statistics` WHERE ( `player` = '克雷-汤普森' )  [ RunTime:0.000533s ]
+NOTIC: [8] Use of undefined constant avgscore - assumed 'avgscore' C:\wamp\www\NBADemo\Home\Lib\Action\IndexAction.class.php 第 163 行.
+NOTIC: [8] Use of undefined constant shortrate - assumed 'shortrate' C:\wamp\www\NBADemo\Home\Lib\Action\IndexAction.class.php 第 164 行.
+NOTIC: [8] Use of undefined constant thirdrate - assumed 'thirdrate' C:\wamp\www\NBADemo\Home\Lib\Action\IndexAction.class.php 第 165 行.
+NOTIC: [8] Use of undefined constant ft - assumed 'ft' C:\wamp\www\NBADemo\Home\Lib\Action\IndexAction.class.php 第 166 行.
+NOTIC: [8] Use of undefined constant mpg - assumed 'mpg' C:\wamp\www\NBADemo\Home\Lib\Action\IndexAction.class.php 第 167 行.
+
+[ 2016-02-09T09:30:53+08:00 ] 0.0.0.0 /NBADemo/index.php/Index/myData?player=%E5%BE%B7%E7%8E%9B%E5%B0%94-%E5%BE%B7%E7%BD%97%E8%B5%9E
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:0.000691s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000786s ]
+SQL: SHOW COLUMNS FROM `tb_statistics` [ RunTime:0.003981s ]
+SQL: SELECT `avgscore`,`shortrate`,`thirdrate`,`ft`,`mpg` FROM `tb_statistics` WHERE ( `player` = '德玛尔-德罗赞' )  [ RunTime:0.000486s ]
+NOTIC: [8] Use of undefined constant avgscore - assumed 'avgscore' C:\wamp\www\NBADemo\Home\Lib\Action\IndexAction.class.php 第 163 行.
+NOTIC: [8] Use of undefined constant shortrate - assumed 'shortrate' C:\wamp\www\NBADemo\Home\Lib\Action\IndexAction.class.php 第 164 行.
+NOTIC: [8] Use of undefined constant thirdrate - assumed 'thirdrate' C:\wamp\www\NBADemo\Home\Lib\Action\IndexAction.class.php 第 165 行.
+NOTIC: [8] Use of undefined constant ft - assumed 'ft' C:\wamp\www\NBADemo\Home\Lib\Action\IndexAction.class.php 第 166 行.
+NOTIC: [8] Use of undefined constant mpg - assumed 'mpg' C:\wamp\www\NBADemo\Home\Lib\Action\IndexAction.class.php 第 167 行.
+
+[ 2016-02-09T09:30:57+08:00 ] 0.0.0.0 /NBADemo/index.php/Index/info?do=19
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:0.001049s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001196s ]
+SQL: SHOW COLUMNS FROM `tb_statistics` [ RunTime:0.004395s ]
+SQL: SELECT * FROM `tb_statistics` WHERE ( `id` = 19 ) LIMIT 1   [ RunTime:0.000748s ]
+
+[ 2016-02-09T09:30:57+08:00 ] 0.0.0.0 /NBADemo/index.php/Index/myData?player=%E9%9C%8D%E5%88%A9%E6%96%AF-%E6%B1%A4%E6%99%AE%E6%A3%AE
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:0.000606s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000692s ]
+SQL: SHOW COLUMNS FROM `tb_statistics` [ RunTime:0.003679s ]
+SQL: SELECT `avgscore`,`shortrate`,`thirdrate`,`ft`,`mpg` FROM `tb_statistics` WHERE ( `player` = '霍利斯-汤普森' )  [ RunTime:0.000403s ]
+NOTIC: [8] Use of undefined constant avgscore - assumed 'avgscore' C:\wamp\www\NBADemo\Home\Lib\Action\IndexAction.class.php 第 163 行.
+NOTIC: [8] Use of undefined constant shortrate - assumed 'shortrate' C:\wamp\www\NBADemo\Home\Lib\Action\IndexAction.class.php 第 164 行.
+NOTIC: [8] Use of undefined constant thirdrate - assumed 'thirdrate' C:\wamp\www\NBADemo\Home\Lib\Action\IndexAction.class.php 第 165 行.
+NOTIC: [8] Use of undefined constant ft - assumed 'ft' C:\wamp\www\NBADemo\Home\Lib\Action\IndexAction.class.php 第 166 行.
+NOTIC: [8] Use of undefined constant mpg - assumed 'mpg' C:\wamp\www\NBADemo\Home\Lib\Action\IndexAction.class.php 第 167 行.
+
+[ 2016-02-09T09:30:57+08:00 ] 0.0.0.0 /NBADemo/index.php/Index/info?do=3
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:0.001512s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001611s ]
+SQL: SHOW COLUMNS FROM `tb_statistics` [ RunTime:0.006445s ]
+SQL: SELECT * FROM `tb_statistics` WHERE ( `id` = 3 ) LIMIT 1   [ RunTime:0.001762s ]
+
+[ 2016-02-09T09:30:57+08:00 ] 0.0.0.0 /NBADemo/index.php/Index/myData?player=%E9%9C%8D%E5%88%A9%E6%96%AF-%E6%B1%A4%E6%99%AE%E6%A3%AE
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:0.000747s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000838s ]
+SQL: SHOW COLUMNS FROM `tb_statistics` [ RunTime:0.007702s ]
+SQL: SELECT `avgscore`,`shortrate`,`thirdrate`,`ft`,`mpg` FROM `tb_statistics` WHERE ( `player` = '霍利斯-汤普森' )  [ RunTime:0.000519s ]
+NOTIC: [8] Use of undefined constant avgscore - assumed 'avgscore' C:\wamp\www\NBADemo\Home\Lib\Action\IndexAction.class.php 第 163 行.
+NOTIC: [8] Use of undefined constant shortrate - assumed 'shortrate' C:\wamp\www\NBADemo\Home\Lib\Action\IndexAction.class.php 第 164 行.
+NOTIC: [8] Use of undefined constant thirdrate - assumed 'thirdrate' C:\wamp\www\NBADemo\Home\Lib\Action\IndexAction.class.php 第 165 行.
+NOTIC: [8] Use of undefined constant ft - assumed 'ft' C:\wamp\www\NBADemo\Home\Lib\Action\IndexAction.class.php 第 166 行.
+NOTIC: [8] Use of undefined constant mpg - assumed 'mpg' C:\wamp\www\NBADemo\Home\Lib\Action\IndexAction.class.php 第 167 行.
+
+[ 2016-02-09T09:30:57+08:00 ] 0.0.0.0 /NBADemo/index.php/Index/myData?player=%E8%A9%B9%E5%A7%86%E6%96%AF-%E5%93%88%E7%99%BB
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:0.000592s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000675s ]
+SQL: SHOW COLUMNS FROM `tb_statistics` [ RunTime:0.004150s ]
+SQL: SELECT `avgscore`,`shortrate`,`thirdrate`,`ft`,`mpg` FROM `tb_statistics` WHERE ( `player` = '詹姆斯-哈登' )  [ RunTime:0.000586s ]
+NOTIC: [8] Use of undefined constant avgscore - assumed 'avgscore' C:\wamp\www\NBADemo\Home\Lib\Action\IndexAction.class.php 第 163 行.
+NOTIC: [8] Use of undefined constant shortrate - assumed 'shortrate' C:\wamp\www\NBADemo\Home\Lib\Action\IndexAction.class.php 第 164 行.
+NOTIC: [8] Use of undefined constant thirdrate - assumed 'thirdrate' C:\wamp\www\NBADemo\Home\Lib\Action\IndexAction.class.php 第 165 行.
+NOTIC: [8] Use of undefined constant ft - assumed 'ft' C:\wamp\www\NBADemo\Home\Lib\Action\IndexAction.class.php 第 166 行.
+NOTIC: [8] Use of undefined constant mpg - assumed 'mpg' C:\wamp\www\NBADemo\Home\Lib\Action\IndexAction.class.php 第 167 行.
+
+[ 2016-02-09T09:30:57+08:00 ] 0.0.0.0 /NBADemo/index.php/Index/info?do=19
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:0.001023s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001179s ]
+SQL: SHOW COLUMNS FROM `tb_statistics` [ RunTime:0.005669s ]
+SQL: SELECT * FROM `tb_statistics` WHERE ( `id` = 19 ) LIMIT 1   [ RunTime:0.001223s ]
+
+[ 2016-02-09T09:30:57+08:00 ] 0.0.0.0 /NBADemo/index.php/Index/info?do=13
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:0.000645s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000733s ]
+SQL: SHOW COLUMNS FROM `tb_statistics` [ RunTime:0.004222s ]
+SQL: SELECT * FROM `tb_statistics` WHERE ( `id` = 13 ) LIMIT 1   [ RunTime:0.000748s ]
+
+[ 2016-02-09T09:30:57+08:00 ] 0.0.0.0 /NBADemo/index.php/Index/info?do=14
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:0.000951s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001104s ]
+SQL: SHOW COLUMNS FROM `tb_statistics` [ RunTime:0.004984s ]
+SQL: SELECT * FROM `tb_statistics` WHERE ( `id` = 14 ) LIMIT 1   [ RunTime:0.001534s ]
+
+[ 2016-02-09T09:30:57+08:00 ] 0.0.0.0 /NBADemo/index.php/Index/myData?player=%E4%BC%8A%E5%B0%BC%E6%96%AF-%E5%9D%8E%E7%89%B9
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:0.001044s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001235s ]
+SQL: SHOW COLUMNS FROM `tb_statistics` [ RunTime:0.005511s ]
+SQL: SELECT `avgscore`,`shortrate`,`thirdrate`,`ft`,`mpg` FROM `tb_statistics` WHERE ( `player` = '伊尼斯-坎特' )  [ RunTime:0.000523s ]
+NOTIC: [8] Use of undefined constant avgscore - assumed 'avgscore' C:\wamp\www\NBADemo\Home\Lib\Action\IndexAction.class.php 第 163 行.
+NOTIC: [8] Use of undefined constant shortrate - assumed 'shortrate' C:\wamp\www\NBADemo\Home\Lib\Action\IndexAction.class.php 第 164 行.
+NOTIC: [8] Use of undefined constant thirdrate - assumed 'thirdrate' C:\wamp\www\NBADemo\Home\Lib\Action\IndexAction.class.php 第 165 行.
+NOTIC: [8] Use of undefined constant ft - assumed 'ft' C:\wamp\www\NBADemo\Home\Lib\Action\IndexAction.class.php 第 166 行.
+NOTIC: [8] Use of undefined constant mpg - assumed 'mpg' C:\wamp\www\NBADemo\Home\Lib\Action\IndexAction.class.php 第 167 行.
+
+[ 2016-02-09T09:30:57+08:00 ] 0.0.0.0 /NBADemo/index.php/Index/myData?player=%E8%B4%BE%E9%A9%AC%E5%B0%94-%E5%85%8B%E5%8A%B3%E7%A6%8F%E5%BE%B7
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:0.002030s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002206s ]
+SQL: SHOW COLUMNS FROM `tb_statistics` [ RunTime:0.004200s ]
+SQL: SELECT `avgscore`,`shortrate`,`thirdrate`,`ft`,`mpg` FROM `tb_statistics` WHERE ( `player` = '贾马尔-克劳福德' )  [ RunTime:0.000452s ]
+NOTIC: [8] Use of undefined constant avgscore - assumed 'avgscore' C:\wamp\www\NBADemo\Home\Lib\Action\IndexAction.class.php 第 163 行.
+NOTIC: [8] Use of undefined constant shortrate - assumed 'shortrate' C:\wamp\www\NBADemo\Home\Lib\Action\IndexAction.class.php 第 164 行.
+NOTIC: [8] Use of undefined constant thirdrate - assumed 'thirdrate' C:\wamp\www\NBADemo\Home\Lib\Action\IndexAction.class.php 第 165 行.
+NOTIC: [8] Use of undefined constant ft - assumed 'ft' C:\wamp\www\NBADemo\Home\Lib\Action\IndexAction.class.php 第 166 行.
+NOTIC: [8] Use of undefined constant mpg - assumed 'mpg' C:\wamp\www\NBADemo\Home\Lib\Action\IndexAction.class.php 第 167 行.
+
+[ 2016-02-09T09:30:57+08:00 ] 0.0.0.0 /NBADemo/index.php/Index/info?do=1
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:0.000984s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001141s ]
+SQL: SHOW COLUMNS FROM `tb_statistics` [ RunTime:0.007572s ]
+SQL: SELECT * FROM `tb_statistics` WHERE ( `id` = 1 ) LIMIT 1   [ RunTime:0.001096s ]
+
+[ 2016-02-09T09:30:57+08:00 ] 0.0.0.0 /NBADemo/index.php/Index/myData?player=%E6%8B%89%E5%A1%9E%E5%B0%94-%E5%A8%81%E6%96%AF%E5%B8%83%E9%B2%81%E5%85%8B
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:0.001849s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002080s ]
+SQL: SHOW COLUMNS FROM `tb_statistics` [ RunTime:0.006513s ]
+SQL: SELECT `avgscore`,`shortrate`,`thirdrate`,`ft`,`mpg` FROM `tb_statistics` WHERE ( `player` = '拉塞尔-威斯布鲁克' )  [ RunTime:0.000863s ]
+NOTIC: [8] Use of undefined constant avgscore - assumed 'avgscore' C:\wamp\www\NBADemo\Home\Lib\Action\IndexAction.class.php 第 163 行.
+NOTIC: [8] Use of undefined constant shortrate - assumed 'shortrate' C:\wamp\www\NBADemo\Home\Lib\Action\IndexAction.class.php 第 164 行.
+NOTIC: [8] Use of undefined constant thirdrate - assumed 'thirdrate' C:\wamp\www\NBADemo\Home\Lib\Action\IndexAction.class.php 第 165 行.
+NOTIC: [8] Use of undefined constant ft - assumed 'ft' C:\wamp\www\NBADemo\Home\Lib\Action\IndexAction.class.php 第 166 行.
+NOTIC: [8] Use of undefined constant mpg - assumed 'mpg' C:\wamp\www\NBADemo\Home\Lib\Action\IndexAction.class.php 第 167 行.
+
+[ 2016-02-09T09:30:57+08:00 ] 0.0.0.0 /NBADemo/index.php/Index/myData?player=%E8%A9%B9%E5%A7%86%E6%96%AF-%E5%93%88%E7%99%BB
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:0.001005s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001209s ]
+SQL: SHOW COLUMNS FROM `tb_statistics` [ RunTime:0.006115s ]
+SQL: SELECT `avgscore`,`shortrate`,`thirdrate`,`ft`,`mpg` FROM `tb_statistics` WHERE ( `player` = '詹姆斯-哈登' )  [ RunTime:0.000505s ]
+NOTIC: [8] Use of undefined constant avgscore - assumed 'avgscore' C:\wamp\www\NBADemo\Home\Lib\Action\IndexAction.class.php 第 163 行.
+NOTIC: [8] Use of undefined constant shortrate - assumed 'shortrate' C:\wamp\www\NBADemo\Home\Lib\Action\IndexAction.class.php 第 164 行.
+NOTIC: [8] Use of undefined constant thirdrate - assumed 'thirdrate' C:\wamp\www\NBADemo\Home\Lib\Action\IndexAction.class.php 第 165 行.
+NOTIC: [8] Use of undefined constant ft - assumed 'ft' C:\wamp\www\NBADemo\Home\Lib\Action\IndexAction.class.php 第 166 行.
+NOTIC: [8] Use of undefined constant mpg - assumed 'mpg' C:\wamp\www\NBADemo\Home\Lib\Action\IndexAction.class.php 第 167 行.
+
+[ 2016-02-09T09:30:57+08:00 ] 0.0.0.0 /NBADemo/index.php/Index/myData?player=%E4%BC%8A%E5%B0%BC%E6%96%AF-%E5%9D%8E%E7%89%B9
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:0.000934s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001086s ]
+SQL: SHOW COLUMNS FROM `tb_statistics` [ RunTime:0.005673s ]
+SQL: SELECT `avgscore`,`shortrate`,`thirdrate`,`ft`,`mpg` FROM `tb_statistics` WHERE ( `player` = '伊尼斯-坎特' )  [ RunTime:0.000425s ]
+NOTIC: [8] Use of undefined constant avgscore - assumed 'avgscore' C:\wamp\www\NBADemo\Home\Lib\Action\IndexAction.class.php 第 163 行.
+NOTIC: [8] Use of undefined constant shortrate - assumed 'shortrate' C:\wamp\www\NBADemo\Home\Lib\Action\IndexAction.class.php 第 164 行.
+NOTIC: [8] Use of undefined constant thirdrate - assumed 'thirdrate' C:\wamp\www\NBADemo\Home\Lib\Action\IndexAction.class.php 第 165 行.
+NOTIC: [8] Use of undefined constant ft - assumed 'ft' C:\wamp\www\NBADemo\Home\Lib\Action\IndexAction.class.php 第 166 行.
+NOTIC: [8] Use of undefined constant mpg - assumed 'mpg' C:\wamp\www\NBADemo\Home\Lib\Action\IndexAction.class.php 第 167 行.
+
+[ 2016-02-09T09:30:57+08:00 ] 0.0.0.0 /NBADemo/index.php/Index/myData?player=%E8%B4%BE%E9%A9%AC%E5%B0%94-%E5%85%8B%E5%8A%B3%E7%A6%8F%E5%BE%B7
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:0.000965s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001082s ]
+SQL: SHOW COLUMNS FROM `tb_statistics` [ RunTime:0.007526s ]
+SQL: SELECT `avgscore`,`shortrate`,`thirdrate`,`ft`,`mpg` FROM `tb_statistics` WHERE ( `player` = '贾马尔-克劳福德' )  [ RunTime:0.000721s ]
+NOTIC: [8] Use of undefined constant avgscore - assumed 'avgscore' C:\wamp\www\NBADemo\Home\Lib\Action\IndexAction.class.php 第 163 行.
+NOTIC: [8] Use of undefined constant shortrate - assumed 'shortrate' C:\wamp\www\NBADemo\Home\Lib\Action\IndexAction.class.php 第 164 行.
+NOTIC: [8] Use of undefined constant thirdrate - assumed 'thirdrate' C:\wamp\www\NBADemo\Home\Lib\Action\IndexAction.class.php 第 165 行.
+NOTIC: [8] Use of undefined constant ft - assumed 'ft' C:\wamp\www\NBADemo\Home\Lib\Action\IndexAction.class.php 第 166 行.
+NOTIC: [8] Use of undefined constant mpg - assumed 'mpg' C:\wamp\www\NBADemo\Home\Lib\Action\IndexAction.class.php 第 167 行.
+
+[ 2016-02-09T09:30:57+08:00 ] 0.0.0.0 /NBADemo/index.php/Index/myData?player=%E6%8B%89%E5%A1%9E%E5%B0%94-%E5%A8%81%E6%96%AF%E5%B8%83%E9%B2%81%E5%85%8B
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:0.000940s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001115s ]
+SQL: SHOW COLUMNS FROM `tb_statistics` [ RunTime:0.003882s ]
+SQL: SELECT `avgscore`,`shortrate`,`thirdrate`,`ft`,`mpg` FROM `tb_statistics` WHERE ( `player` = '拉塞尔-威斯布鲁克' )  [ RunTime:0.000809s ]
+NOTIC: [8] Use of undefined constant avgscore - assumed 'avgscore' C:\wamp\www\NBADemo\Home\Lib\Action\IndexAction.class.php 第 163 行.
+NOTIC: [8] Use of undefined constant shortrate - assumed 'shortrate' C:\wamp\www\NBADemo\Home\Lib\Action\IndexAction.class.php 第 164 行.
+NOTIC: [8] Use of undefined constant thirdrate - assumed 'thirdrate' C:\wamp\www\NBADemo\Home\Lib\Action\IndexAction.class.php 第 165 行.
+NOTIC: [8] Use of undefined constant ft - assumed 'ft' C:\wamp\www\NBADemo\Home\Lib\Action\IndexAction.class.php 第 166 行.
+NOTIC: [8] Use of undefined constant mpg - assumed 'mpg' C:\wamp\www\NBADemo\Home\Lib\Action\IndexAction.class.php 第 167 行.
+
+[ 2016-02-09T09:30:57+08:00 ] 0.0.0.0 /NBADemo/index.php/Index/info?do=4
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:0.001031s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001186s ]
+SQL: SHOW COLUMNS FROM `tb_statistics` [ RunTime:0.005064s ]
+SQL: SELECT * FROM `tb_statistics` WHERE ( `id` = 4 ) LIMIT 1   [ RunTime:0.000963s ]
+
+[ 2016-02-09T09:30:57+08:00 ] 0.0.0.0 /NBADemo/index.php/Index/myData?player=%E5%B8%83%E9%9B%B7%E5%85%8B-%E6%A0%BC%E9%87%8C%E8%8A%AC
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:0.001037s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001203s ]
+SQL: SHOW COLUMNS FROM `tb_statistics` [ RunTime:0.003770s ]
+SQL: SELECT `avgscore`,`shortrate`,`thirdrate`,`ft`,`mpg` FROM `tb_statistics` WHERE ( `player` = '布雷克-格里芬' )  [ RunTime:0.000438s ]
+NOTIC: [8] Use of undefined constant avgscore - assumed 'avgscore' C:\wamp\www\NBADemo\Home\Lib\Action\IndexAction.class.php 第 163 行.
+NOTIC: [8] Use of undefined constant shortrate - assumed 'shortrate' C:\wamp\www\NBADemo\Home\Lib\Action\IndexAction.class.php 第 164 行.
+NOTIC: [8] Use of undefined constant thirdrate - assumed 'thirdrate' C:\wamp\www\NBADemo\Home\Lib\Action\IndexAction.class.php 第 165 行.
+NOTIC: [8] Use of undefined constant ft - assumed 'ft' C:\wamp\www\NBADemo\Home\Lib\Action\IndexAction.class.php 第 166 行.
+NOTIC: [8] Use of undefined constant mpg - assumed 'mpg' C:\wamp\www\NBADemo\Home\Lib\Action\IndexAction.class.php 第 167 行.
+
+[ 2016-02-09T09:30:57+08:00 ] 0.0.0.0 /NBADemo/index.php/Index/info?do=1
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:0.000641s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000740s ]
+SQL: SHOW COLUMNS FROM `tb_statistics` [ RunTime:0.007557s ]
+SQL: SELECT * FROM `tb_statistics` WHERE ( `id` = 1 ) LIMIT 1   [ RunTime:0.000819s ]
+
+[ 2016-02-09T09:30:57+08:00 ] 0.0.0.0 /NBADemo/index.php/Index/myData?player=%E5%B8%83%E9%9B%B7%E5%85%8B-%E6%A0%BC%E9%87%8C%E8%8A%AC
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:0.000985s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001141s ]
+SQL: SHOW COLUMNS FROM `tb_statistics` [ RunTime:0.005405s ]
+SQL: SELECT `avgscore`,`shortrate`,`thirdrate`,`ft`,`mpg` FROM `tb_statistics` WHERE ( `player` = '布雷克-格里芬' )  [ RunTime:0.000904s ]
+NOTIC: [8] Use of undefined constant avgscore - assumed 'avgscore' C:\wamp\www\NBADemo\Home\Lib\Action\IndexAction.class.php 第 163 行.
+NOTIC: [8] Use of undefined constant shortrate - assumed 'shortrate' C:\wamp\www\NBADemo\Home\Lib\Action\IndexAction.class.php 第 164 行.
+NOTIC: [8] Use of undefined constant thirdrate - assumed 'thirdrate' C:\wamp\www\NBADemo\Home\Lib\Action\IndexAction.class.php 第 165 行.
+NOTIC: [8] Use of undefined constant ft - assumed 'ft' C:\wamp\www\NBADemo\Home\Lib\Action\IndexAction.class.php 第 166 行.
+NOTIC: [8] Use of undefined constant mpg - assumed 'mpg' C:\wamp\www\NBADemo\Home\Lib\Action\IndexAction.class.php 第 167 行.
+
+[ 2016-02-09T09:30:57+08:00 ] 0.0.0.0 /NBADemo/index.php/Index/myData?player=%E6%8B%89%E5%A1%9E%E5%B0%94-%E5%A8%81%E6%96%AF%E5%B8%83%E9%B2%81%E5%85%8B
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:0.001058s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001215s ]
+SQL: SHOW COLUMNS FROM `tb_statistics` [ RunTime:0.006897s ]
+SQL: SELECT `avgscore`,`shortrate`,`thirdrate`,`ft`,`mpg` FROM `tb_statistics` WHERE ( `player` = '拉塞尔-威斯布鲁克' )  [ RunTime:0.000515s ]
+NOTIC: [8] Use of undefined constant avgscore - assumed 'avgscore' C:\wamp\www\NBADemo\Home\Lib\Action\IndexAction.class.php 第 163 行.
+NOTIC: [8] Use of undefined constant shortrate - assumed 'shortrate' C:\wamp\www\NBADemo\Home\Lib\Action\IndexAction.class.php 第 164 行.
+NOTIC: [8] Use of undefined constant thirdrate - assumed 'thirdrate' C:\wamp\www\NBADemo\Home\Lib\Action\IndexAction.class.php 第 165 行.
+NOTIC: [8] Use of undefined constant ft - assumed 'ft' C:\wamp\www\NBADemo\Home\Lib\Action\IndexAction.class.php 第 166 行.
+NOTIC: [8] Use of undefined constant mpg - assumed 'mpg' C:\wamp\www\NBADemo\Home\Lib\Action\IndexAction.class.php 第 167 行.
+
+[ 2016-02-09T09:30:57+08:00 ] 0.0.0.0 /NBADemo/index.php/Index/info?do=1
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:0.001243s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001519s ]
+SQL: SHOW COLUMNS FROM `tb_statistics` [ RunTime:0.006622s ]
+SQL: SELECT * FROM `tb_statistics` WHERE ( `id` = 1 ) LIMIT 1   [ RunTime:0.001238s ]
+
+[ 2016-02-09T09:30:57+08:00 ] 0.0.0.0 /NBADemo/index.php/Index/info?do=14
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:0.001348s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001514s ]
+SQL: SHOW COLUMNS FROM `tb_statistics` [ RunTime:0.006973s ]
+SQL: SELECT * FROM `tb_statistics` WHERE ( `id` = 14 ) LIMIT 1   [ RunTime:0.000810s ]
+
+[ 2016-02-09T09:30:57+08:00 ] 0.0.0.0 /NBADemo/index.php/Index/myData?player=%E6%8B%89%E5%A1%9E%E5%B0%94-%E5%A8%81%E6%96%AF%E5%B8%83%E9%B2%81%E5%85%8B
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:0.001012s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001175s ]
+SQL: SHOW COLUMNS FROM `tb_statistics` [ RunTime:0.004214s ]
+SQL: SELECT `avgscore`,`shortrate`,`thirdrate`,`ft`,`mpg` FROM `tb_statistics` WHERE ( `player` = '拉塞尔-威斯布鲁克' )  [ RunTime:0.000545s ]
+NOTIC: [8] Use of undefined constant avgscore - assumed 'avgscore' C:\wamp\www\NBADemo\Home\Lib\Action\IndexAction.class.php 第 163 行.
+NOTIC: [8] Use of undefined constant shortrate - assumed 'shortrate' C:\wamp\www\NBADemo\Home\Lib\Action\IndexAction.class.php 第 164 行.
+NOTIC: [8] Use of undefined constant thirdrate - assumed 'thirdrate' C:\wamp\www\NBADemo\Home\Lib\Action\IndexAction.class.php 第 165 行.
+NOTIC: [8] Use of undefined constant ft - assumed 'ft' C:\wamp\www\NBADemo\Home\Lib\Action\IndexAction.class.php 第 166 行.
+NOTIC: [8] Use of undefined constant mpg - assumed 'mpg' C:\wamp\www\NBADemo\Home\Lib\Action\IndexAction.class.php 第 167 行.
+
+[ 2016-02-09T09:30:57+08:00 ] 0.0.0.0 /NBADemo/index.php/Index/myData?player=%E4%BC%8A%E5%B0%BC%E6%96%AF-%E5%9D%8E%E7%89%B9
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:0.000912s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001044s ]
+SQL: SHOW COLUMNS FROM `tb_statistics` [ RunTime:0.006275s ]
+SQL: SELECT `avgscore`,`shortrate`,`thirdrate`,`ft`,`mpg` FROM `tb_statistics` WHERE ( `player` = '伊尼斯-坎特' )  [ RunTime:0.000761s ]
+NOTIC: [8] Use of undefined constant avgscore - assumed 'avgscore' C:\wamp\www\NBADemo\Home\Lib\Action\IndexAction.class.php 第 163 行.
+NOTIC: [8] Use of undefined constant shortrate - assumed 'shortrate' C:\wamp\www\NBADemo\Home\Lib\Action\IndexAction.class.php 第 164 行.
+NOTIC: [8] Use of undefined constant thirdrate - assumed 'thirdrate' C:\wamp\www\NBADemo\Home\Lib\Action\IndexAction.class.php 第 165 行.
+NOTIC: [8] Use of undefined constant ft - assumed 'ft' C:\wamp\www\NBADemo\Home\Lib\Action\IndexAction.class.php 第 166 行.
+NOTIC: [8] Use of undefined constant mpg - assumed 'mpg' C:\wamp\www\NBADemo\Home\Lib\Action\IndexAction.class.php 第 167 行.
+
+[ 2016-02-09T09:30:57+08:00 ] 0.0.0.0 /NBADemo/index.php/Index/info?do=13
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:0.001034s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001193s ]
+SQL: SHOW COLUMNS FROM `tb_statistics` [ RunTime:0.006346s ]
+SQL: SELECT * FROM `tb_statistics` WHERE ( `id` = 13 ) LIMIT 1   [ RunTime:0.000926s ]
+
+[ 2016-02-09T09:30:57+08:00 ] 0.0.0.0 /NBADemo/index.php/Index/myData?player=%E8%B4%BE%E9%A9%AC%E5%B0%94-%E5%85%8B%E5%8A%B3%E7%A6%8F%E5%BE%B7
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:0.001060s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001211s ]
+SQL: SHOW COLUMNS FROM `tb_statistics` [ RunTime:0.006277s ]
+SQL: SELECT `avgscore`,`shortrate`,`thirdrate`,`ft`,`mpg` FROM `tb_statistics` WHERE ( `player` = '贾马尔-克劳福德' )  [ RunTime:0.001779s ]
+NOTIC: [8] Use of undefined constant avgscore - assumed 'avgscore' C:\wamp\www\NBADemo\Home\Lib\Action\IndexAction.class.php 第 163 行.
+NOTIC: [8] Use of undefined constant shortrate - assumed 'shortrate' C:\wamp\www\NBADemo\Home\Lib\Action\IndexAction.class.php 第 164 行.
+NOTIC: [8] Use of undefined constant thirdrate - assumed 'thirdrate' C:\wamp\www\NBADemo\Home\Lib\Action\IndexAction.class.php 第 165 行.
+NOTIC: [8] Use of undefined constant ft - assumed 'ft' C:\wamp\www\NBADemo\Home\Lib\Action\IndexAction.class.php 第 166 行.
+NOTIC: [8] Use of undefined constant mpg - assumed 'mpg' C:\wamp\www\NBADemo\Home\Lib\Action\IndexAction.class.php 第 167 行.
+
+[ 2016-02-09T09:30:57+08:00 ] 0.0.0.0 /NBADemo/index.php/Index/myData?player=%E4%BC%8A%E5%B0%BC%E6%96%AF-%E5%9D%8E%E7%89%B9
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:0.001340s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.008488s ]
+SQL: SHOW COLUMNS FROM `tb_statistics` [ RunTime:0.009072s ]
+SQL: SELECT `avgscore`,`shortrate`,`thirdrate`,`ft`,`mpg` FROM `tb_statistics` WHERE ( `player` = '伊尼斯-坎特' )  [ RunTime:0.000545s ]
+NOTIC: [8] Use of undefined constant avgscore - assumed 'avgscore' C:\wamp\www\NBADemo\Home\Lib\Action\IndexAction.class.php 第 163 行.
+NOTIC: [8] Use of undefined constant shortrate - assumed 'shortrate' C:\wamp\www\NBADemo\Home\Lib\Action\IndexAction.class.php 第 164 行.
+NOTIC: [8] Use of undefined constant thirdrate - assumed 'thirdrate' C:\wamp\www\NBADemo\Home\Lib\Action\IndexAction.class.php 第 165 行.
+NOTIC: [8] Use of undefined constant ft - assumed 'ft' C:\wamp\www\NBADemo\Home\Lib\Action\IndexAction.class.php 第 166 行.
+NOTIC: [8] Use of undefined constant mpg - assumed 'mpg' C:\wamp\www\NBADemo\Home\Lib\Action\IndexAction.class.php 第 167 行.
+
+[ 2016-02-09T09:30:57+08:00 ] 0.0.0.0 /NBADemo/index.php/Index/info?do=3
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:0.000985s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001144s ]
+SQL: SHOW COLUMNS FROM `tb_statistics` [ RunTime:0.004294s ]
+SQL: SELECT * FROM `tb_statistics` WHERE ( `id` = 3 ) LIMIT 1   [ RunTime:0.001058s ]
+
+[ 2016-02-09T09:30:58+08:00 ] 0.0.0.0 /NBADemo/index.php/Index/myData?player=%E8%A9%B9%E5%A7%86%E6%96%AF-%E5%93%88%E7%99%BB
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:0.001292s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001491s ]
+SQL: SHOW COLUMNS FROM `tb_statistics` [ RunTime:0.004737s ]
+SQL: SELECT `avgscore`,`shortrate`,`thirdrate`,`ft`,`mpg` FROM `tb_statistics` WHERE ( `player` = '詹姆斯-哈登' )  [ RunTime:0.002291s ]
+NOTIC: [8] Use of undefined constant avgscore - assumed 'avgscore' C:\wamp\www\NBADemo\Home\Lib\Action\IndexAction.class.php 第 163 行.
+NOTIC: [8] Use of undefined constant shortrate - assumed 'shortrate' C:\wamp\www\NBADemo\Home\Lib\Action\IndexAction.class.php 第 164 行.
+NOTIC: [8] Use of undefined constant thirdrate - assumed 'thirdrate' C:\wamp\www\NBADemo\Home\Lib\Action\IndexAction.class.php 第 165 行.
+NOTIC: [8] Use of undefined constant ft - assumed 'ft' C:\wamp\www\NBADemo\Home\Lib\Action\IndexAction.class.php 第 166 行.
+NOTIC: [8] Use of undefined constant mpg - assumed 'mpg' C:\wamp\www\NBADemo\Home\Lib\Action\IndexAction.class.php 第 167 行.
+
+[ 2016-02-09T09:30:58+08:00 ] 0.0.0.0 /NBADemo/index.php/Index/myData?player=%E8%B4%BE%E9%A9%AC%E5%B0%94-%E5%85%8B%E5%8A%B3%E7%A6%8F%E5%BE%B7
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:0.001115s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001280s ]
+SQL: SHOW COLUMNS FROM `tb_statistics` [ RunTime:0.005809s ]
+SQL: SELECT `avgscore`,`shortrate`,`thirdrate`,`ft`,`mpg` FROM `tb_statistics` WHERE ( `player` = '贾马尔-克劳福德' )  [ RunTime:0.000595s ]
+NOTIC: [8] Use of undefined constant avgscore - assumed 'avgscore' C:\wamp\www\NBADemo\Home\Lib\Action\IndexAction.class.php 第 163 行.
+NOTIC: [8] Use of undefined constant shortrate - assumed 'shortrate' C:\wamp\www\NBADemo\Home\Lib\Action\IndexAction.class.php 第 164 行.
+NOTIC: [8] Use of undefined constant thirdrate - assumed 'thirdrate' C:\wamp\www\NBADemo\Home\Lib\Action\IndexAction.class.php 第 165 行.
+NOTIC: [8] Use of undefined constant ft - assumed 'ft' C:\wamp\www\NBADemo\Home\Lib\Action\IndexAction.class.php 第 166 行.
+NOTIC: [8] Use of undefined constant mpg - assumed 'mpg' C:\wamp\www\NBADemo\Home\Lib\Action\IndexAction.class.php 第 167 行.
+
+[ 2016-02-09T09:30:58+08:00 ] 0.0.0.0 /NBADemo/index.php/Index/info?do=19
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:0.001009s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001167s ]
+SQL: SHOW COLUMNS FROM `tb_statistics` [ RunTime:0.006221s ]
+SQL: SELECT * FROM `tb_statistics` WHERE ( `id` = 19 ) LIMIT 1   [ RunTime:0.000790s ]
+
+[ 2016-02-09T09:30:58+08:00 ] 0.0.0.0 /NBADemo/index.php/Index/myData?player=%E9%9C%8D%E5%88%A9%E6%96%AF-%E6%B1%A4%E6%99%AE%E6%A3%AE
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:0.000954s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001104s ]
+SQL: SHOW COLUMNS FROM `tb_statistics` [ RunTime:0.005476s ]
+SQL: SELECT `avgscore`,`shortrate`,`thirdrate`,`ft`,`mpg` FROM `tb_statistics` WHERE ( `player` = '霍利斯-汤普森' )  [ RunTime:0.000839s ]
+NOTIC: [8] Use of undefined constant avgscore - assumed 'avgscore' C:\wamp\www\NBADemo\Home\Lib\Action\IndexAction.class.php 第 163 行.
+NOTIC: [8] Use of undefined constant shortrate - assumed 'shortrate' C:\wamp\www\NBADemo\Home\Lib\Action\IndexAction.class.php 第 164 行.
+NOTIC: [8] Use of undefined constant thirdrate - assumed 'thirdrate' C:\wamp\www\NBADemo\Home\Lib\Action\IndexAction.class.php 第 165 行.
+NOTIC: [8] Use of undefined constant ft - assumed 'ft' C:\wamp\www\NBADemo\Home\Lib\Action\IndexAction.class.php 第 166 行.
+NOTIC: [8] Use of undefined constant mpg - assumed 'mpg' C:\wamp\www\NBADemo\Home\Lib\Action\IndexAction.class.php 第 167 行.
+
+[ 2016-02-09T09:30:58+08:00 ] 0.0.0.0 /NBADemo/index.php/Index/myData?player=%E8%A9%B9%E5%A7%86%E6%96%AF-%E5%93%88%E7%99%BB
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:0.004199s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004459s ]
+SQL: SHOW COLUMNS FROM `tb_statistics` [ RunTime:0.005774s ]
+SQL: SELECT `avgscore`,`shortrate`,`thirdrate`,`ft`,`mpg` FROM `tb_statistics` WHERE ( `player` = '詹姆斯-哈登' )  [ RunTime:0.000604s ]
+NOTIC: [8] Use of undefined constant avgscore - assumed 'avgscore' C:\wamp\www\NBADemo\Home\Lib\Action\IndexAction.class.php 第 163 行.
+NOTIC: [8] Use of undefined constant shortrate - assumed 'shortrate' C:\wamp\www\NBADemo\Home\Lib\Action\IndexAction.class.php 第 164 行.
+NOTIC: [8] Use of undefined constant thirdrate - assumed 'thirdrate' C:\wamp\www\NBADemo\Home\Lib\Action\IndexAction.class.php 第 165 行.
+NOTIC: [8] Use of undefined constant ft - assumed 'ft' C:\wamp\www\NBADemo\Home\Lib\Action\IndexAction.class.php 第 166 行.
+NOTIC: [8] Use of undefined constant mpg - assumed 'mpg' C:\wamp\www\NBADemo\Home\Lib\Action\IndexAction.class.php 第 167 行.
+
+[ 2016-02-09T09:30:58+08:00 ] 0.0.0.0 /NBADemo/index.php/Index/myData?player=%E9%9C%8D%E5%88%A9%E6%96%AF-%E6%B1%A4%E6%99%AE%E6%A3%AE
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:0.000768s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000895s ]
+SQL: SHOW COLUMNS FROM `tb_statistics` [ RunTime:0.005437s ]
+SQL: SELECT `avgscore`,`shortrate`,`thirdrate`,`ft`,`mpg` FROM `tb_statistics` WHERE ( `player` = '霍利斯-汤普森' )  [ RunTime:0.001336s ]
+NOTIC: [8] Use of undefined constant avgscore - assumed 'avgscore' C:\wamp\www\NBADemo\Home\Lib\Action\IndexAction.class.php 第 163 行.
+NOTIC: [8] Use of undefined constant shortrate - assumed 'shortrate' C:\wamp\www\NBADemo\Home\Lib\Action\IndexAction.class.php 第 164 行.
+NOTIC: [8] Use of undefined constant thirdrate - assumed 'thirdrate' C:\wamp\www\NBADemo\Home\Lib\Action\IndexAction.class.php 第 165 行.
+NOTIC: [8] Use of undefined constant ft - assumed 'ft' C:\wamp\www\NBADemo\Home\Lib\Action\IndexAction.class.php 第 166 行.
+NOTIC: [8] Use of undefined constant mpg - assumed 'mpg' C:\wamp\www\NBADemo\Home\Lib\Action\IndexAction.class.php 第 167 行.
+
